@@ -1,0 +1,104 @@
+---
+id: typing-annotation
+slug: /typing-annotation
+title: Тип аннотациялары
+sidebar_label: Тип аннотациялары
+---
+
+import CodePythonBlock from '@site/src/components/CodePythonBlock';
+
+Python кодын жазу кезінде айнымалы мәндердің типін көрсету қажеттілігі жиі туындайды. Тип аннотациялары (type annotations) алғаш рет **Python 3.5** нұсқасында енгізілді және кейінгі нұсқаларда жақсартылды. Олар орындалу нәтижесіне әсер етпейді және TypeScript-ке өте ұқсас.
+
+---
+
+### Тип аннотацияларын қолдану
+
+Python тілінде тип аннотацияларын көрсету міндетті емес. Олар — тек айнымалылар мен функциялардың типін көрсетудің тәсілі. Бұл кодтың **оқылымдылығын** және **қолдауға ыңғайлылығын** арттырады.
+
+#### Айнымалылар
+
+<CodePythonBlock
+  language="python"
+  title="🔤 Айнымалы типі"
+  code={`age: int = 25
+name: str = "John"`}
+/>
+
+#### Функция параметрлері мен қайтарылатын мән типі
+
+<CodePythonBlock
+  language="python"
+  title="🔧 Функция типі"
+  code={`def add(x: int, y: int) -> int:
+    return x + y`}
+/>
+
+#### Қосымша параметрлер және әдепкі мәндер
+
+<CodePythonBlock
+  language="python"
+  title="🎛️ Әдепкі параметрлер"
+  code={`from typing import Union
+
+def greet(name: str, age: Union[int, None] = None) -> str:
+    if age is None:
+        return f"Сәлем, {name}!"
+    else:
+        return f"Сәлем, {name}! Сенің жасың {age}."`}
+/>
+
+#### Кластарда қолдану
+
+<CodePythonBlock
+  language="python"
+  title="🏗️ Класта тип аннотациясы"
+  code={`class Person:
+    def __init__(self, name: str, age: int):
+        self.name = name
+        self.age = age
+
+    def greet(self) -> str:
+        return f"Сәлем, менің атым {self.name}, жасым {self.age}."`}
+/>
+
+#### Типтік бүркеншік аттар (Type Aliases)
+
+<CodePythonBlock
+  language="python"
+  title="🧩 Тип бүркеншік аттар"
+  code={`from typing import List, Tuple
+
+Coordinates = Tuple[float, float]
+PointList = List[Coordinates]
+
+def get_distance(point1: Coordinates, point2: Coordinates) -> float:
+    x1, y1 = point1
+    x2, y2 = point2
+    return ((x2 - x1) ** 2 + (y2 - y1) ** 2) ** 0.5
+
+def process_points(points: PointList) -> List[float]:
+    distances = []
+    for i in range(len(points) - 1):
+        distance = get_distance(points[i], points[i + 1])
+        distances.append(distance)
+    return distances`}
+/>
+
+---
+
+### Компиляция кезінде типті тексеру
+
+Python тілінде [`mypy`](http://mypy-lang.org) — кодтағы типтерді тексеретін құрал. Бұл TypeScript-дегі `tsc` құралына ұқсас.
+
+<CodePythonBlock
+  language="bash"
+  title="🔍 mypy арқылы тексеру"
+  code={`pip install mypy
+mypy my_script.py`}
+/>
+
+---
+
+### Ресурстар
+
+- [https://docs.python.org/3/library/typing.html](https://docs.python.org/3/library/typing.html)

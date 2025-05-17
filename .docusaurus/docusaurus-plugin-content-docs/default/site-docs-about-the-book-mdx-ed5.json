@@ -1,0 +1,28 @@
+{
+  "id": "about-the-book",
+  "title": "Кітап туралы",
+  "description": "Сәлем! Мен Молықпай Ислам Қанатұлы, Каспий көпсалалы жоғары колледжінің, 4-курс Ақпараттық–техникалық бөлімінің студенті боламын. Сіздерге менің алғашқы ашық бастапқы коды бар электронды кітабымды — «JavaScript инженерлеріне арналған Python нұсқаулығы» атты жобамды таныстыруға қуаныштымын.",
+  "source": "@site/docs/about-the-book.mdx",
+  "sourceDirName": ".",
+  "slug": "/about-the-book",
+  "permalink": "/python-guide-for-javascript-engineers/zh-cn/about-the-book",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "about-the-book",
+    "slug": "/about-the-book",
+    "title": "Кітап туралы",
+    "sidebar_label": "Кітап туралы"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Басты бет",
+    "permalink": "/python-guide-for-javascript-engineers/zh-cn/"
+  },
+  "next": {
+    "title": "Кітапты қалай пайдалану керек",
+    "permalink": "/python-guide-for-javascript-engineers/zh-cn/how-to-use-the-book"
+  }
+}

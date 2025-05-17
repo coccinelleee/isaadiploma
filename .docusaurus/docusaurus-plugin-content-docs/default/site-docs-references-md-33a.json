@@ -1,0 +1,28 @@
+{
+  "id": "references",
+  "title": "Ресурстар",
+  "description": "1. https://openai.com",
+  "source": "@site/docs/references.md",
+  "sourceDirName": ".",
+  "slug": "/references",
+  "permalink": "/python-guide-for-javascript-engineers/references",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "references",
+    "slug": "/references",
+    "title": "Ресурстар",
+    "sidebar_label": "Ресурстар"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Танымал үшінші тарап пакеттері",
+    "permalink": "/python-guide-for-javascript-engineers/third-party-packages"
+  },
+  "next": {
+    "title": "Қорытынды сөз",
+    "permalink": "/python-guide-for-javascript-engineers/afterword"
+  }
+}

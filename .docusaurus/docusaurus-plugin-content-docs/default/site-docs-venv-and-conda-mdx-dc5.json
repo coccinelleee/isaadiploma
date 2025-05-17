@@ -1,0 +1,28 @@
+{
+  "id": "venv-and-conda",
+  "title": "Виртуалды орта және Conda",
+  "description": "Python тілінде виртуалды орталар — әрбір жоба үшін жеке Python ортасын жасауға мүмкіндік беретін құрал. Бұл әр жоба үшін тәуелділіктерді оқшаулауға мүмкіндік береді. Әртүрлі жобаларда әртүрлі кітапхана нұсқаларын бір-біріне кедергі келтірмей орнатуға болады. Бұл JavaScript бағдарламашылары жиі қолданатын nvm құралына ұқсас.",
+  "source": "@site/docs/venv-and-conda.mdx",
+  "sourceDirName": ".",
+  "slug": "/venv-and-conda-and-condaip",
+  "permalink": "/python-guide-for-javascript-engineers/zh-cn/venv-and-conda-and-condaip",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "venv-and-conda",
+    "slug": "/venv-and-conda-and-condaip",
+    "title": "Виртуалды орта және Conda",
+    "sidebar_label": "Виртуалды орта және Conda"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Pip",
+    "permalink": "/python-guide-for-javascript-engineers/zh-cn/pip"
+  },
+  "next": {
+    "title": "Poetry",
+    "permalink": "/python-guide-for-javascript-engineers/zh-cn/poetry"
+  }
+}

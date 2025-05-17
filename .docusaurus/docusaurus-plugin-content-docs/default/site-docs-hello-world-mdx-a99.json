@@ -1,0 +1,28 @@
+{
+  "id": "hello-world",
+  "title": "Сәлем, Әлем!",
+  "description": "«Сәлем, Әлем!» бағдарламасы — жаңа бағдарламалау тілін үйреніп жатқан жаңадан бастаушылар жазатын ең бірінші бағдарлама. Бұл жай ғана консольге \"Hello, World!\" деген жазуды шығаратын қарапайым бағдарлама.",
+  "source": "@site/docs/hello-world.mdx",
+  "sourceDirName": ".",
+  "slug": "/hello-world",
+  "permalink": "/python-guide-for-javascript-engineers/zh-cn/hello-world",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "hello-world",
+    "slug": "/hello-world",
+    "title": "Сәлем, Әлем!",
+    "sidebar_label": "Сәлем, Әлем!"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Python Ортасын Орнату",
+    "permalink": "/python-guide-for-javascript-engineers/zh-cn/setup-environment"
+  },
+  "next": {
+    "title": "Айнымалыларды анықтау және мән беру",
+    "permalink": "/python-guide-for-javascript-engineers/zh-cn/definition-and-assignment-of-variables"
+  }
+}

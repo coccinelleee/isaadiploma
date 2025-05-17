@@ -1,0 +1,28 @@
+{
+  "id": "json-module",
+  "title": "JSON модулі",
+  "description": "Python тіліндегі json модулі JSON деректерімен жұмыс істеуге арналған функцияларды ұсынады.",
+  "source": "@site/docs/json-module.md",
+  "sourceDirName": ".",
+  "slug": "/json-module",
+  "permalink": "/python-guide-for-javascript-engineers/json-module",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "json-module",
+    "slug": "/json-module",
+    "title": "JSON модулі",
+    "sidebar_label": "JSON модулі"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "OS модулі",
+    "permalink": "/python-guide-for-javascript-engineers/os-module"
+  },
+  "next": {
+    "title": "Re модулі",
+    "permalink": "/python-guide-for-javascript-engineers/re-module"
+  }
+}

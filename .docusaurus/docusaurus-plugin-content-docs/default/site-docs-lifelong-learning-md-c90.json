@@ -1,0 +1,28 @@
+{
+  "id": "lifelong-learning",
+  "title": "Үздіксіз оқыту",
+  "description": "Python бағдарламалау негіздерін меңгергеніңізбен құттықтаймын!",
+  "source": "@site/docs/lifelong-learning.md",
+  "sourceDirName": ".",
+  "slug": "/lifelong-learning",
+  "permalink": "/python-guide-for-javascript-engineers/lifelong-learning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "lifelong-learning",
+    "slug": "/lifelong-learning",
+    "title": "Үздіксіз оқыту",
+    "sidebar_label": "Үздіксіз оқыту"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Кітап дүкені",
+    "permalink": "/python-guide-for-javascript-engineers/task-book-store"
+  },
+  "next": {
+    "title": "Танымал үшінші тарап пакеттері",
+    "permalink": "/python-guide-for-javascript-engineers/third-party-packages"
+  }
+}

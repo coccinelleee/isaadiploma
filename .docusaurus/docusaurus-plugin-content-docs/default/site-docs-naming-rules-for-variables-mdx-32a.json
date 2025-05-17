@@ -1,0 +1,28 @@
+{
+  "id": "naming-rules-for-variables",
+  "title": "Айнымалыларды атау ережелері",
+  "description": "Python кодын \"JavaScript стилінде\" жазбау үшін, Python тілінде айнымалыларды атауға қатысты ережелер мен конвенцияларды түсіну қажет.",
+  "source": "@site/docs/naming-rules-for-variables.mdx",
+  "sourceDirName": ".",
+  "slug": "/naming-rules-for-variables",
+  "permalink": "/python-guide-for-javascript-engineers/zh-cn/naming-rules-for-variables",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "naming-rules-for-variables",
+    "slug": "/naming-rules-for-variables",
+    "title": "Айнымалыларды атау ережелері",
+    "sidebar_label": "Айнымалыларды атау ережелері"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Айнымалыларды анықтау және мән беру",
+    "permalink": "/python-guide-for-javascript-engineers/zh-cn/definition-and-assignment-of-variables"
+  },
+  "next": {
+    "title": "Негізгі деректер типтері",
+    "permalink": "/python-guide-for-javascript-engineers/zh-cn/basic-types"
+  }
+}

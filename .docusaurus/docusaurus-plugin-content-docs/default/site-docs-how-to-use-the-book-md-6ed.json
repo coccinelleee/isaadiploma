@@ -1,0 +1,28 @@
+{
+  "id": "how-to-use-the-book",
+  "title": "Кітапты қалай пайдалану керек",
+  "description": "Орта орнату",
+  "source": "@site/docs/how-to-use-the-book.md",
+  "sourceDirName": ".",
+  "slug": "/how-to-use-the-book",
+  "permalink": "/python-guide-for-javascript-engineers/how-to-use-the-book",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "how-to-use-the-book",
+    "slug": "/how-to-use-the-book",
+    "title": "Кітапты қалай пайдалану керек",
+    "sidebar_label": "Кітапты қалай пайдалану керек"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Кітап туралы",
+    "permalink": "/python-guide-for-javascript-engineers/about-the-book"
+  },
+  "next": {
+    "title": "Python Ортасын Орнату",
+    "permalink": "/python-guide-for-javascript-engineers/setup-environment"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "task-book-store",
+  "title": "Кітап дүкені",
+  "description": "Тапсырма",
+  "source": "@site/docs/task-book-store.md",
+  "sourceDirName": ".",
+  "slug": "/task-book-store",
+  "permalink": "/python-guide-for-javascript-engineers/task-book-store",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "task-book-store",
+    "slug": "/task-book-store",
+    "title": "Кітап дүкені",
+    "sidebar_label": "Кітап дүкені"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "GitHub ТОП 50",
+    "permalink": "/python-guide-for-javascript-engineers/task-top-50-in-github"
+  },
+  "next": {
+    "title": "Үздіксіз оқыту",
+    "permalink": "/python-guide-for-javascript-engineers/lifelong-learning"
+  }
+}

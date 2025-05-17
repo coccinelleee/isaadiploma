@@ -1,0 +1,28 @@
+{
+  "id": "type-conversion",
+  "title": "Типті түрлендіру",
+  "description": "Типті түрлендіру — бағдарламалауда жиі кездесетін қажеттілік. Python және JavaScript тілдерінде типтерді түрлендіруге арналған арнайы әдістер мен функциялар бар.",
+  "source": "@site/docs/type-conversion.mdx",
+  "sourceDirName": ".",
+  "slug": "/type-conversion",
+  "permalink": "/python-guide-for-javascript-engineers/zh-cn/type-conversion",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "type-conversion",
+    "slug": "/type-conversion",
+    "title": "Типті түрлендіру",
+    "sidebar_label": "Типті түрлендіру"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Арифметикалық амалдар",
+    "permalink": "/python-guide-for-javascript-engineers/zh-cn/arithmetic-operation"
+  },
+  "next": {
+    "title": "Тізімдер мен Кортеждер",
+    "permalink": "/python-guide-for-javascript-engineers/zh-cn/lists-and-tuples"
+  }
+}

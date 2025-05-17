@@ -1,0 +1,28 @@
+{
+  "id": "poetry",
+  "title": "Poetry",
+  "description": "Poetry — Python жобалары үшін тәуелділіктерді басқаруды жеңілдететін қуатты құрал.",
+  "source": "@site/docs/poetry.mdx",
+  "sourceDirName": ".",
+  "slug": "/poetry",
+  "permalink": "/python-guide-for-javascript-engineers/zh-cn/poetry",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "poetry",
+    "slug": "/poetry",
+    "title": "Poetry",
+    "sidebar_label": "Poetry"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Виртуалды орта және Conda",
+    "permalink": "/python-guide-for-javascript-engineers/zh-cn/venv-and-conda-and-condaip"
+  },
+  "next": {
+    "title": "Тип аннотациялары",
+    "permalink": "/python-guide-for-javascript-engineers/zh-cn/typing-annotation"
+  }
+}

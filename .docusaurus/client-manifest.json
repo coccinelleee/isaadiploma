@@ -1,0 +1,869 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "489": [
+      5741,
+      489
+    ],
+    "1382": [
+      1869,
+      2076,
+      8401,
+      1382
+    ],
+    "2237": [
+      2237
+    ],
+    "5741": [
+      489,
+      5741
+    ],
+    "17896441": [
+      1382,
+      1869,
+      2076,
+      8401
+    ],
+    "88537089": [
+      2076,
+      1195
+    ],
+    "main": [
+      1869,
+      5354,
+      8792
+    ],
+    "runtime~main": [
+      1869,
+      8792,
+      5354
+    ],
+    "07417d44": [
+      1869,
+      2076,
+      6740
+    ],
+    "0a2598e2": [
+      1869,
+      2076,
+      1507
+    ],
+    "0d708d8c": [
+      1869,
+      2076,
+      205
+    ],
+    "0e24665f": [
+      1869,
+      2076,
+      5909
+    ],
+    "118d029b": [
+      2076,
+      5122
+    ],
+    "138e0e15": [
+      4921
+    ],
+    "1a4e3797": [
+      1869,
+      2138
+    ],
+    "226722a0": [
+      1869,
+      2076,
+      7013
+    ],
+    "28df18b5": [
+      1869,
+      2076,
+      8735
+    ],
+    "29cbd566": [
+      2076,
+      5098
+    ],
+    "2c2fa793": [
+      1869,
+      2076,
+      4554
+    ],
+    "2e554d34": [
+      1869,
+      2076,
+      3355
+    ],
+    "314aef45": [
+      1869,
+      2076,
+      9970
+    ],
+    "32a5c708": [
+      1869,
+      2076,
+      1484
+    ],
+    "32d7b3d8": [
+      1869,
+      2076,
+      870
+    ],
+    "3711dc20": [
+      1869,
+      2076,
+      8082
+    ],
+    "3cd505c7": [
+      1869,
+      2076,
+      5723
+    ],
+    "48d62415": [
+      1869,
+      2076,
+      9177
+    ],
+    "4edc808e": [
+      2076,
+      308
+    ],
+    "4f29292d": [
+      9183
+    ],
+    "595be38c": [
+      1869,
+      2076,
+      7671
+    ],
+    "5e95c892": [
+      9647
+    ],
+    "6bbbb72f": [
+      1869,
+      2076,
+      1710
+    ],
+    "6fff25e9": [
+      1869,
+      2076,
+      7318
+    ],
+    "722026c5": [
+      1869,
+      2076,
+      4938
+    ],
+    "76317b24": [
+      1869,
+      2076,
+      3633
+    ],
+    "95ce6d41": [
+      1869,
+      2076,
+      7418
+    ],
+    "a2237366": [
+      1869,
+      2076,
+      3265
+    ],
+    "a7bd4aaa": [
+      7098
+    ],
+    "a94703ab": [
+      1869,
+      9048
+    ],
+    "a99f1342": [
+      1869,
+      2076,
+      170
+    ],
+    "aba21aa0": [
+      5742
+    ],
+    "acc29c8c": [
+      1869,
+      2076,
+      4995
+    ],
+    "afe75284": [
+      1869,
+      2076,
+      2459
+    ],
+    "afeeb15d": [
+      1869,
+      2076,
+      9864
+    ],
+    "b41f2acd": [
+      1869,
+      2076,
+      4966
+    ],
+    "b75ad1be": [
+      2076,
+      2418
+    ],
+    "be862b05": [
+      1869,
+      2076,
+      4087
+    ],
+    "c9b1d311": [
+      1869,
+      2076,
+      885
+    ],
+    "cc03323a": [
+      1869,
+      2076,
+      7245
+    ],
+    "d2d9ab35": [
+      1869,
+      2076,
+      2641
+    ],
+    "d8378c49": [
+      1869,
+      2076,
+      3623
+    ],
+    "dc50075e": [
+      1869,
+      2076,
+      4682
+    ],
+    "e2feaeac": [
+      1869,
+      2076,
+      5327
+    ],
+    "e9093877": [
+      1869,
+      2076,
+      395
+    ],
+    "ed5d134e": [
+      2076,
+      6566
+    ],
+    "fdf0742e": [
+      1869,
+      2076,
+      7221
+    ],
+    "styles": [
+      170,
+      205,
+      395,
+      870,
+      885,
+      1382,
+      1484,
+      1507,
+      1710,
+      2076,
+      2138,
+      2459,
+      2641,
+      3265,
+      3355,
+      3623,
+      3633,
+      4087,
+      4554,
+      4682,
+      4938,
+      4966,
+      4995,
+      5327,
+      5354,
+      5723,
+      5909,
+      6740,
+      7013,
+      7221,
+      7245,
+      7318,
+      7418,
+      7671,
+      8082,
+      8401,
+      8735,
+      8792,
+      9048,
+      9177,
+      9864,
+      9970,
+      1869
+    ],
+    "common": [
+      170,
+      205,
+      308,
+      395,
+      870,
+      885,
+      1195,
+      1382,
+      1484,
+      1507,
+      1710,
+      1869,
+      2418,
+      2459,
+      2641,
+      3265,
+      3355,
+      3623,
+      3633,
+      4087,
+      4554,
+      4682,
+      4938,
+      4966,
+      4995,
+      5098,
+      5122,
+      5327,
+      5723,
+      5909,
+      6566,
+      6740,
+      7013,
+      7221,
+      7245,
+      7318,
+      7418,
+      7671,
+      8082,
+      8401,
+      8735,
+      9177,
+      9864,
+      9970,
+      2076
+    ]
+  },
+  "assets": {
+    "170": {
+      "js": [
+        {
+          "file": "assets/js/a99f1342.a9527a1f.js",
+          "hash": "23a83de1a7ec7b6d",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/a99f1342.a9527a1f.js"
+        }
+      ]
+    },
+    "205": {
+      "js": [
+        {
+          "file": "assets/js/0d708d8c.206c7586.js",
+          "hash": "22780df5cf759150",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/0d708d8c.206c7586.js"
+        }
+      ]
+    },
+    "308": {
+      "js": [
+        {
+          "file": "assets/js/4edc808e.d6c44044.js",
+          "hash": "dd5ba985d2c6f738",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/4edc808e.d6c44044.js"
+        }
+      ]
+    },
+    "395": {
+      "js": [
+        {
+          "file": "assets/js/e9093877.b408ce68.js",
+          "hash": "46183b5f26bc63e3",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/e9093877.b408ce68.js"
+        }
+      ]
+    },
+    "489": {
+      "js": [
+        {
+          "file": "assets/js/489.18b6be8b.js",
+          "hash": "dcfc897f79af3e40",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/489.18b6be8b.js"
+        }
+      ]
+    },
+    "870": {
+      "js": [
+        {
+          "file": "assets/js/32d7b3d8.959aa42d.js",
+          "hash": "1d59a6c0ca2faedc",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/32d7b3d8.959aa42d.js"
+        }
+      ]
+    },
+    "885": {
+      "js": [
+        {
+          "file": "assets/js/c9b1d311.252f6511.js",
+          "hash": "2873ced57078f9fb",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/c9b1d311.252f6511.js"
+        }
+      ]
+    },
+    "1195": {
+      "js": [
+        {
+          "file": "assets/js/88537089.1c6a741a.js",
+          "hash": "abde0cfcae646092",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/88537089.1c6a741a.js"
+        }
+      ]
+    },
+    "1382": {
+      "js": [
+        {
+          "file": "assets/js/1382.644ac3c5.js",
+          "hash": "0551dc19235b0502",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/1382.644ac3c5.js"
+        }
+      ]
+    },
+    "1484": {
+      "js": [
+        {
+          "file": "assets/js/32a5c708.a75700a3.js",
+          "hash": "2820e6ae325675d5",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/32a5c708.a75700a3.js"
+        }
+      ]
+    },
+    "1507": {
+      "js": [
+        {
+          "file": "assets/js/0a2598e2.aa5a3b72.js",
+          "hash": "b1ee3426faf43e73",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/0a2598e2.aa5a3b72.js"
+        }
+      ]
+    },
+    "1710": {
+      "js": [
+        {
+          "file": "assets/js/6bbbb72f.43c80eec.js",
+          "hash": "7494c1fa236bb13e",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/6bbbb72f.43c80eec.js"
+        }
+      ]
+    },
+    "1869": {
+      "css": [
+        {
+          "file": "assets/css/styles.12a252dd.css",
+          "hash": "d5ffe5ee2f617e7a",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/css/styles.12a252dd.css"
+        }
+      ]
+    },
+    "2076": {
+      "js": [
+        {
+          "file": "assets/js/common.b83041a7.js",
+          "hash": "819557f24b5c37c5",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/common.b83041a7.js"
+        }
+      ]
+    },
+    "2138": {
+      "js": [
+        {
+          "file": "assets/js/1a4e3797.9aa73630.js",
+          "hash": "7d334983a1b891ba",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/1a4e3797.9aa73630.js"
+        }
+      ]
+    },
+    "2237": {
+      "js": [
+        {
+          "file": "assets/js/2237.83ac14e0.js",
+          "hash": "3a02747227f60aa7",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/2237.83ac14e0.js"
+        }
+      ]
+    },
+    "2418": {
+      "js": [
+        {
+          "file": "assets/js/b75ad1be.42880165.js",
+          "hash": "3b1ab819fbc82b59",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/b75ad1be.42880165.js"
+        }
+      ]
+    },
+    "2459": {
+      "js": [
+        {
+          "file": "assets/js/afe75284.dd140df2.js",
+          "hash": "678994fb5f207de0",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/afe75284.dd140df2.js"
+        }
+      ]
+    },
+    "2641": {
+      "js": [
+        {
+          "file": "assets/js/d2d9ab35.b111617a.js",
+          "hash": "eea82588da8d9ddf",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/d2d9ab35.b111617a.js"
+        }
+      ]
+    },
+    "3265": {
+      "js": [
+        {
+          "file": "assets/js/a2237366.589867c9.js",
+          "hash": "104a6523a08aa3fb",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/a2237366.589867c9.js"
+        }
+      ]
+    },
+    "3355": {
+      "js": [
+        {
+          "file": "assets/js/2e554d34.f819981e.js",
+          "hash": "02f8c93facd44764",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/2e554d34.f819981e.js"
+        }
+      ]
+    },
+    "3623": {
+      "js": [
+        {
+          "file": "assets/js/d8378c49.3341c45c.js",
+          "hash": "22f6280a42593658",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/d8378c49.3341c45c.js"
+        }
+      ]
+    },
+    "3633": {
+      "js": [
+        {
+          "file": "assets/js/76317b24.56ac24d3.js",
+          "hash": "953b82cb23f00459",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/76317b24.56ac24d3.js"
+        }
+      ]
+    },
+    "4087": {
+      "js": [
+        {
+          "file": "assets/js/be862b05.456e9bce.js",
+          "hash": "6845984c7998c0e4",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/be862b05.456e9bce.js"
+        }
+      ]
+    },
+    "4554": {
+      "js": [
+        {
+          "file": "assets/js/2c2fa793.5a012542.js",
+          "hash": "f418f697fd0b8bc9",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/2c2fa793.5a012542.js"
+        }
+      ]
+    },
+    "4682": {
+      "js": [
+        {
+          "file": "assets/js/dc50075e.e440a5d3.js",
+          "hash": "6220d52643832f3b",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/dc50075e.e440a5d3.js"
+        }
+      ]
+    },
+    "4921": {
+      "js": [
+        {
+          "file": "assets/js/138e0e15.45234bbf.js",
+          "hash": "f3ff76a446b560df",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/138e0e15.45234bbf.js"
+        }
+      ]
+    },
+    "4938": {
+      "js": [
+        {
+          "file": "assets/js/722026c5.d8b151ed.js",
+          "hash": "4b5deaaf483ab817",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/722026c5.d8b151ed.js"
+        }
+      ]
+    },
+    "4966": {
+      "js": [
+        {
+          "file": "assets/js/b41f2acd.f670854b.js",
+          "hash": "bd62bd1f86a12362",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/b41f2acd.f670854b.js"
+        }
+      ]
+    },
+    "4995": {
+      "js": [
+        {
+          "file": "assets/js/acc29c8c.b567d611.js",
+          "hash": "e4f40df8a279405f",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/acc29c8c.b567d611.js"
+        }
+      ]
+    },
+    "5098": {
+      "js": [
+        {
+          "file": "assets/js/29cbd566.09300ea4.js",
+          "hash": "f3a663a0055d3430",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/29cbd566.09300ea4.js"
+        }
+      ]
+    },
+    "5122": {
+      "js": [
+        {
+          "file": "assets/js/118d029b.0f093eba.js",
+          "hash": "7330579d71fe1a8d",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/118d029b.0f093eba.js"
+        }
+      ]
+    },
+    "5327": {
+      "js": [
+        {
+          "file": "assets/js/e2feaeac.98e77702.js",
+          "hash": "f190487cf95359e9",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/e2feaeac.98e77702.js"
+        }
+      ]
+    },
+    "5354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.182185ad.js",
+          "hash": "e1e9eb0face3098d",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/runtime~main.182185ad.js"
+        }
+      ]
+    },
+    "5723": {
+      "js": [
+        {
+          "file": "assets/js/3cd505c7.98bb8342.js",
+          "hash": "aa1f2dceec141c31",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/3cd505c7.98bb8342.js"
+        }
+      ]
+    },
+    "5741": {
+      "js": [
+        {
+          "file": "assets/js/5741.d2e8c918.js",
+          "hash": "0a0c1e28385c9815",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/5741.d2e8c918.js"
+        }
+      ]
+    },
+    "5742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.ee93dc90.js",
+          "hash": "ee681f06333b5873",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/aba21aa0.ee93dc90.js"
+        }
+      ]
+    },
+    "5909": {
+      "js": [
+        {
+          "file": "assets/js/0e24665f.bd1e11d9.js",
+          "hash": "1926df6fbc93f55c",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/0e24665f.bd1e11d9.js"
+        }
+      ]
+    },
+    "6566": {
+      "js": [
+        {
+          "file": "assets/js/ed5d134e.3c231447.js",
+          "hash": "de6f6672508123f4",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/ed5d134e.3c231447.js"
+        }
+      ]
+    },
+    "6740": {
+      "js": [
+        {
+          "file": "assets/js/07417d44.ac06552f.js",
+          "hash": "033cea92776131c7",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/07417d44.ac06552f.js"
+        }
+      ]
+    },
+    "7013": {
+      "js": [
+        {
+          "file": "assets/js/226722a0.7feaf05d.js",
+          "hash": "162ce26c1b8e95b9",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/226722a0.7feaf05d.js"
+        }
+      ]
+    },
+    "7098": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.239e2f27.js",
+          "hash": "e473f9fa68ac50f7",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/a7bd4aaa.239e2f27.js"
+        }
+      ]
+    },
+    "7221": {
+      "js": [
+        {
+          "file": "assets/js/fdf0742e.df20b2d0.js",
+          "hash": "29a2fc006ecedc0d",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/fdf0742e.df20b2d0.js"
+        }
+      ]
+    },
+    "7245": {
+      "js": [
+        {
+          "file": "assets/js/cc03323a.9cdc8bb5.js",
+          "hash": "0efb14f0c6a51ce0",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/cc03323a.9cdc8bb5.js"
+        }
+      ]
+    },
+    "7318": {
+      "js": [
+        {
+          "file": "assets/js/6fff25e9.b2e38731.js",
+          "hash": "a0a0f2e9cac7c878",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/6fff25e9.b2e38731.js"
+        }
+      ]
+    },
+    "7418": {
+      "js": [
+        {
+          "file": "assets/js/95ce6d41.205bd04d.js",
+          "hash": "62fb127398292294",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/95ce6d41.205bd04d.js"
+        }
+      ]
+    },
+    "7671": {
+      "js": [
+        {
+          "file": "assets/js/595be38c.4c74ea97.js",
+          "hash": "367666151848fcb5",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/595be38c.4c74ea97.js"
+        }
+      ]
+    },
+    "8082": {
+      "js": [
+        {
+          "file": "assets/js/3711dc20.30874652.js",
+          "hash": "63317da692b1cffa",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/3711dc20.30874652.js"
+        }
+      ]
+    },
+    "8401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.b52e15c5.js",
+          "hash": "9818307f423c1c55",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/17896441.b52e15c5.js"
+        }
+      ]
+    },
+    "8735": {
+      "js": [
+        {
+          "file": "assets/js/28df18b5.d8003de6.js",
+          "hash": "490e9068d5cdcd88",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/28df18b5.d8003de6.js"
+        }
+      ]
+    },
+    "8792": {
+      "js": [
+        {
+          "file": "assets/js/main.82f03f9a.js",
+          "hash": "8fd87bd508dacbc1",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/main.82f03f9a.js"
+        }
+      ]
+    },
+    "9048": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.5d20dfe4.js",
+          "hash": "c58a794ac8f0549a",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/a94703ab.5d20dfe4.js"
+        }
+      ]
+    },
+    "9177": {
+      "js": [
+        {
+          "file": "assets/js/48d62415.9638bab9.js",
+          "hash": "0c984c5b23409959",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/48d62415.9638bab9.js"
+        }
+      ]
+    },
+    "9183": {
+      "js": [
+        {
+          "file": "assets/js/4f29292d.7293b2db.js",
+          "hash": "857b8e2a7d7bc8fa",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/4f29292d.7293b2db.js"
+        }
+      ]
+    },
+    "9647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.09b4a9e9.js",
+          "hash": "4700230778cc3a1f",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/5e95c892.09b4a9e9.js"
+        }
+      ]
+    },
+    "9864": {
+      "js": [
+        {
+          "file": "assets/js/afeeb15d.d98182e5.js",
+          "hash": "a8873f99056554cd",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/afeeb15d.d98182e5.js"
+        }
+      ]
+    },
+    "9970": {
+      "js": [
+        {
+          "file": "assets/js/314aef45.1c22f671.js",
+          "hash": "8ee55fafcb977de9",
+          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/314aef45.1c22f671.js"
+        }
+      ]
+    }
+  }
+}

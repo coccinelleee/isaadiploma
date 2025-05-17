@@ -1,0 +1,28 @@
+{
+  "id": "definition-and-assignment-of-variables",
+  "title": "Айнымалыларды анықтау және мән беру",
+  "description": "Python тілі, JavaScript сияқты, динамикалық типтелген тіл және айнымалыға мән бермес бұрын оның түрін жариялауды талап етпейді.",
+  "source": "@site/docs/definition-and-assignment-of-variables.mdx",
+  "sourceDirName": ".",
+  "slug": "/definition-and-assignment-of-variables",
+  "permalink": "/python-guide-for-javascript-engineers/zh-cn/definition-and-assignment-of-variables",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "definition-and-assignment-of-variables",
+    "slug": "/definition-and-assignment-of-variables",
+    "title": "Айнымалыларды анықтау және мән беру",
+    "sidebar_label": "Айнымалыларды анықтау және мән беру"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Сәлем, Әлем!",
+    "permalink": "/python-guide-for-javascript-engineers/zh-cn/hello-world"
+  },
+  "next": {
+    "title": "Айнымалыларды атау ережелері",
+    "permalink": "/python-guide-for-javascript-engineers/zh-cn/naming-rules-for-variables"
+  }
+}

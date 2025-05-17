@@ -1,0 +1,28 @@
+{
+  "id": "read-and-write-files",
+  "title": "Файлды оқу және жазу",
+  "description": "Файлды оқу және жазу — бағдарламалауда жиі кездесетін енгізу/шығару (IO) операцияларының бірі.",
+  "source": "@site/docs/read-and-write-files.mdx",
+  "sourceDirName": ".",
+  "slug": "/read-and-write-files",
+  "permalink": "/python-guide-for-javascript-engineers/zh-cn/read-and-write-files",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "read-and-write-files",
+    "slug": "/read-and-write-files",
+    "title": "Файлды оқу және жазу",
+    "sidebar_label": "Файлмен жұмыс"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Пакеттерді құру және импорттау",
+    "permalink": "/python-guide-for-javascript-engineers/zh-cn/create-and-import-packages"
+  },
+  "next": {
+    "title": "Datetime модулі",
+    "permalink": "/python-guide-for-javascript-engineers/zh-cn/datetime-module"
+  }
+}

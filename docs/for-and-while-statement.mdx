@@ -1,0 +1,84 @@
+---
+id: for-and-while-statement
+slug: /for-and-while-statement
+title: For және While операторлары
+sidebar_label: For және While
+---
+
+import CodePythonBlock from '@site/src/components/CodePythonBlock';
+
+Циклдер — белгілі бір кодты қайталап орындауға арналған құрылымдар. Python және JavaScript тілдерінде цикл логикасын жүзеге асыру үшін `for` және `while` операторлары қолданылады.
+
+---
+
+### Тапсырма
+
+1-ден 20-ға дейінгі барлық сандарды қамтитын массив (тізім) жасап, әрбір элементті басып шығарыңыз.
+
+---
+
+#### JavaScript іске асыруы
+<CodePythonBlock
+  title="📄 JavaScript"
+  language="javascript"
+  code={`let numbers = Array.from({ length: 20 }, (_, i) => (i + 1));
+
+for (let el of numbers) {
+  console.log(el);
+}`}
+/>
+
+
+---
+
+#### Python іске асыруы
+<CodePythonBlock
+  title="📄 Python"
+  language="python"
+  code={`numbers = range(1, 21)
+
+for el in numbers:
+  print(el)`}
+/>
+
+
+---
+
+### Кодты түсіндіру
+
+- Python тілінде `for` циклінің синтаксисі: `for el in sequence:`, ал JavaScript тілінде: `for (let el of iterable)`.
+- Python блоктарды белгілеу үшін **шегініс** (indentation) қолданады, ал JavaScript — `{}` фигуралық жақшаларды.
+
+---
+
+### Жылдам салыстыру
+
+| Мүмкіндік               | JavaScript                      | Python                             |
+|-------------------------|----------------------------------|------------------------------------|
+| `for` циклі             | `for (el of iterable)`          | `for el in sequence:`              |
+| `while` циклі           | `while (шарт)`                  | `while шарт:`                      |
+| Диапазон генерациясы    | —                               | `range(start, stop, step)`         |
+| Индексті алу (нөмірлеу) | —                               | `enumerate(iterable, start=0)`     |
+| Циклден шығу            | `break`                         | `break`                            |
+| Келесі итерацияға өту   | `continue`                      | `continue`                         |
+
+---
+
+:::tip Циклде индексті алу
+Python-да `enumerate()` — тізімді немесе кез келген итерируем объектіні индексті мәнмен бірге қайтарады.
+:::
+
+<CodePythonBlock
+  title="🔁 enumerate() қолдану"
+  language="python"
+  code={`for index, el in enumerate(my_list):
+    print(index, el)`}
+/>
+
+---
+
+### Ресурстар
+
+- https://docs.python.org/3/tutorial/controlflow.html#for-statements
+- https://docs.python.org/3/library/stdtypes.html#range
+- https://docs.python.org/3/library/functions.html#enumerate

@@ -1,0 +1,80 @@
+---
+id: lists-and-tuples
+slug: /lists-and-tuples
+title: Тізімдер мен Кортеждер
+sidebar_label: Тізімдер мен Кортеждер
+---
+
+import CodePythonBlock from '@site/src/components/CodePythonBlock';
+
+
+Python тілінде массивтер (arrays) **тізімдер (lists)** деп аталады және бірнеше мәнді тізбектей сақтау үшін қолданылады.
+
+---
+
+### Тапсырма
+
+**Bob**, **Tom** және **Amy** есімді адамдар тізімін жасаңыз.
+
+#### JavaScript іске асыруы
+<CodePythonBlock
+  title="📄 JavaScript"
+  language="javascript"
+  code={`let names = [];
+names.push('Bob');
+names.push('Tom');
+names.push('Amy');
+console.log(names);`}
+/>
+
+
+#### Python іске асыруы
+<CodePythonBlock
+  title="📄 Python"
+  language="python"
+  code={`names = []
+names.append('Bob')
+names.append('Tom')
+names.append('Amy')
+print(names)`}
+/>
+
+
+---
+
+### Кодты түсіндіру
+
+- Python тілінде элемент қосу үшін `append()` әдісі қолданылады: `my_list.append(el)`  
+- JavaScript тілінде бұл үшін `push()` қолданылады: `myArr.push(el)`
+
+---
+
+### Жылдам салыстыру
+
+| Мүмкіндік        | JavaScript                              | Python                                |
+|------------------|------------------------------------------|----------------------------------------|
+| Жасау            | `let myArr = new Array();` <br /> `let myArr = [1, 2];` <br /> `let myTuple = [1, 2];` | `my_list = list()` <br /> `my_list = [1, 2]` <br /> `my_tuple = (1, 2)` |
+| Элементке қол жеткізу | `let el = myArr[index];`               | `el = my_list[index]`                 |
+| Элемент қосу     | `myArr.push(el);`                        | `my_list.append(el)`                  |
+| Ұзындығы         | `let length = myArr.length;`             | `length = len(my_list)`               |
+| Тілім (слайсинг) | `let someEl = myArr.slice(start, end);`  | `some_el = my_list[start:end]`        |
+| Біріктіру        | `let mergedArr = myArr1.concat(myArr2);` | `merged_list = my_list1 + my_list2`   |
+| Көшіру           | `let newArr = [...myArr];`               | `new_list = my_list1.copy()`          |
+| Кері аудару      | `myArr.reverse();`                       | `my_list.reverse()`                   |
+| Элемент жою      | `myArr.splice(index, 1);`                | `del my_list[index]`                  |
+| Ең үлкен мән     | `let maxVal = Math.max(...myArr);`       | `max_val = max(my_list)`              |
+| Ең кіші мән      | `let minVal = Math.min(...myArr);`       | `min_val = min(my_list)`              |
+| Қосындысы        | `let sumVal = myArr.reduce((a,b)=>a+b,0);`| `sum_val = sum(my_list)`              |
+| Кортежге түрлендіру | —                                     | `my_tuple = tuple(my_list)`           |
+
+---
+
+:::tip Кортеж деген не?
+**Кортеж (tuple)** — өзгертілмейтін (тұрақты) тізім сияқты. Ол жасалған кезде элементтер саны мен мәндері бекітіледі және кейін өзгертілмейді.
+:::
+
+---
+
+### Ресурстар
+
+- https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences

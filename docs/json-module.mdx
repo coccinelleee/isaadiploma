@@ -1,0 +1,139 @@
+---
+id: json-module
+slug: /json-module
+title: JSON модулі
+sidebar_label: JSON модулі
+---
+
+import CodePythonBlock from '@site/src/components/CodePythonBlock';
+
+Python тіліндегі `json` модулі JSON деректерімен жұмыс істеуге арналған функцияларды ұсынады.
+
+---
+
+### Тапсырма
+
+`database.json` файлындағы `port` атрибутының мәнін оқып, оны `5432` деп өзгертіңіз және нәтижені файлға қайта жазыңыз.
+
+---
+
+#### JavaScript іске асыруы
+<CodePythonBlock
+  title="📄 JavaScript"
+  language="javascript"
+  code={`import fs from 'fs';
+
+// JSON файлын оқу
+fs.readFile('database.json', 'utf8', (err, data) => {
+  if (err) {
+    console.error(err);
+    return;
+  }
+
+  try {
+    // JSON жолын JavaScript объектісіне түрлендіру
+    const jsonData = JSON.parse(data);
+
+    // port мәнін 5432-ге өзгерту
+    jsonData.port = 5432;
+
+    // Объектіні қайтадан JSON жолына айналдыру
+    const updatedData = JSON.stringify(jsonData, null, 2);
+
+    // Жаңартылған JSON-ды файлға қайта жазу
+    fs.writeFile('database.json', updatedData, 'utf8', (err) => {
+      if (err) {
+        console.error(err);
+        return;
+      }
+
+      console.log('JSON файлы жаңартылды');
+    });
+  } catch (err) {
+    console.error('JSON файлды оқу сәтсіз аяқталды:', err);
+  }
+});`}
+/>
+
+
+---
+
+#### Python іске асыруы
+<CodePythonBlock
+  title="📄 Python"
+  language="python"
+  code={`import json
+
+# JSON файлын оқу
+with open('database.json', 'r') as file:
+    json_data = json.load(file)
+
+# port мәнін 5432-ге өзгерту
+json_data['port'] = 5432
+
+# Жаңартылған деректерді қайта файлға жазу
+with open('database.json', 'w') as file:
+    json.dump(json_data, file, indent=2)
+
+print('JSON файлы жаңартылды')`}
+/>
+
+
+---
+
+### Кодты түсіндіру
+
+- Python тілінде `json.dumps()` — объектіні JSON жолына түрлендіреді, бұл JavaScript-дегі `JSON.stringify()`-ге балама.
+- Python тілінде `json.loads()` — JSON жолын Python объектісіне (негізінен `dict`) түрлендіреді, бұл JavaScript-дегі `JSON.parse()`-ке балама.
+
+---
+
+:::danger Қытай иероглифтері немесе Юникод символдары мәселесі
+Python-да объектіні JSON-ға түрлендіргенде кейбір символдар (мысалы, қытайша) ASCII-ге айналуы мүмкін.  
+Оны болдырмау үшін `ensure_ascii=False` параметрін көрсетіңіз:
+
+<CodePythonBlock
+  title="🔤 Unicode-ды сақтау"
+  language="python"
+  code={`import json
+
+data = {"name": "Боб", "age": 25}
+json_str = json.dumps(data, ensure_ascii=False)
+print(json_str)`}
+/>
+:::
+
+
+---
+
+### Жылдам салыстыру
+
+| Мүмкіндік                    | JavaScript                | Python                       |
+|-----------------------------|----------------------------|------------------------------|
+| JSON жолын парсинг жасау    | `JSON.parse(myStr)`       | `json.loads(my_str)`        |
+| Объектіні JSON-ға түрлендіру | `JSON.stringify(myObj)`    | `json.dumps(my_obj)`        |
+| JSON файлды оқу             | —                         | `json.load(my_file)`        |
+| JSON файлға жазу            | —                         | `json.dump(my_file)`        |
+
+---
+
+:::danger
+Python-да `json.loads()` және `json.load()` нәтижесі `dict` немесе `list` болады (JSON құрылымына байланысты).  
+**Маңызды:** `dict` типінде мәндерді `.` арқылы емес, тек `[]` арқылы алуға болады:
+
+<CodePythonBlock
+  title="⚠️ JSON dict: .name vs ['name']"
+  language="python"
+  code={`import json
+
+my_dict = json.loads('{"name": "luckrnx09", "age": 18}')
+print(my_dict.name)       # Қате: 'dict' объектісінде 'name' деген атрибут жоқ
+print(my_dict['name'])    # Дұрыс: luckrnx09`}
+/>
+:::
+
+---
+
+### Ресурстар
+
+- https://docs.python.org/3/library/json.html

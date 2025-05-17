@@ -1,0 +1,28 @@
+{
+  "id": "class-and-instance",
+  "title": "Класс және объект",
+  "description": "Кластар мен объектілер қайта пайдалануға болатын кодты құру және ұйымдастыру үшін қолданылады. Класс — бұл объектілерді құруға арналған сызба, ал объект — сол кластың нақты бір данасы.",
+  "source": "@site/docs/class-and-instance.md",
+  "sourceDirName": ".",
+  "slug": "/class-and-instance",
+  "permalink": "/python-guide-for-javascript-engineers/class-and-instance",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "class-and-instance",
+    "slug": "/class-and-instance",
+    "title": "Класс және объект",
+    "sidebar_label": "Класс және объект"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Math модулі",
+    "permalink": "/python-guide-for-javascript-engineers/math-module"
+  },
+  "next": {
+    "title": "Try Except операторлары",
+    "permalink": "/python-guide-for-javascript-engineers/try-except-statements"
+  }
+}

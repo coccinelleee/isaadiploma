@@ -1,0 +1,28 @@
+{
+  "id": "set",
+  "title": "Set (Жиын)",
+  "description": "Set (жиын) — бірегей (уникалды) элементтерден тұратын ретсіз коллекция. Бұл JavaScript тіліндегі Set құрылымына ұқсас. Жиі қайталауларды жою үшін қолданылады.",
+  "source": "@site/docs/set.md",
+  "sourceDirName": ".",
+  "slug": "/set",
+  "permalink": "/python-guide-for-javascript-engineers/set",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "set",
+    "slug": "/set",
+    "title": "Set (Жиын)",
+    "sidebar_label": "Set"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Сөздік",
+    "permalink": "/python-guide-for-javascript-engineers/dictionary"
+  },
+  "next": {
+    "title": "If операторы",
+    "permalink": "/python-guide-for-javascript-engineers/if-statement"
+  }
+}

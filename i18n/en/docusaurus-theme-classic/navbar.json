@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "JavaScript инженерлеріне арналған Python нұсқаулығы",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "JavaScript инженерлеріне арналған Python нұсқаулығы",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Github": {
+    "message": "Github",
+    "description": "Navbar item with label Github"
+  }
+}

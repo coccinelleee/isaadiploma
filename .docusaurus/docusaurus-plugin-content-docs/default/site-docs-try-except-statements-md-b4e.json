@@ -1,0 +1,28 @@
+{
+  "id": "try-except-statements",
+  "title": "Try Except операторлары",
+  "description": "Python тілінде try-except операторы қателіктерді (ерекшеліктерді) өңдеу үшін қолданылады. Бұл код блогын анықтауға және ол қате тудырған жағдайда, оны қалай өңдеу керектігін көрсетуге мүмкіндік береді. Бұл JavaScript тіліндегі try-catch синтаксисіне ұқсас.",
+  "source": "@site/docs/try-except-statements.md",
+  "sourceDirName": ".",
+  "slug": "/try-except-statements",
+  "permalink": "/python-guide-for-javascript-engineers/try-except-statements",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "try-except-statements",
+    "slug": "/try-except-statements",
+    "title": "Try Except операторлары",
+    "sidebar_label": "Try Except операторлары"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Класс және объект",
+    "permalink": "/python-guide-for-javascript-engineers/class-and-instance"
+  },
+  "next": {
+    "title": "Арнайы ерекшеліктер",
+    "permalink": "/python-guide-for-javascript-engineers/custom-exception-classes"
+  }
+}

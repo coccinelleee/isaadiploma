@@ -1,0 +1,28 @@
+{
+  "id": "os-module",
+  "title": "OS модулі",
+  "description": "Python тіліндегі os модулі файлдар мен бумаларды басқаруға және жүйеге байланысты ақпараттарға қол жеткізуге арналған функцияларды ұсынады.",
+  "source": "@site/docs/os-module.mdx",
+  "sourceDirName": ".",
+  "slug": "/os-module",
+  "permalink": "/python-guide-for-javascript-engineers/zh-cn/os-module",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "os-module",
+    "slug": "/os-module",
+    "title": "OS модулі",
+    "sidebar_label": "OS модулі"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Datetime модулі",
+    "permalink": "/python-guide-for-javascript-engineers/zh-cn/datetime-module"
+  },
+  "next": {
+    "title": "JSON модулі",
+    "permalink": "/python-guide-for-javascript-engineers/zh-cn/json-module"
+  }
+}

@@ -1,0 +1,122 @@
+---
+id: datetime-module
+slug: /datetime-module
+title: Datetime модулі
+sidebar_label: Datetime модулі
+---
+
+import CodePythonBlock from '@site/src/components/CodePythonBlock';
+
+Python тіліндегі `datetime` модулі күндер, уақыттар және уақыт аралықтарымен жұмыс істеуге арналған кластар мен функцияларды ұсынады.
+
+---
+
+### 🧠 Тапсырма
+
+Сяо Миннің жасын және келесі туған күніне дейінгі күн санын есептейтін бағдарлама құрыңыз. Сяо Миннің туған күні — 1992 жылдың 15 қаңтары.
+
+---
+
+<CodePythonBlock
+  title="📄 JavaScript"
+  language="javascript"
+  code={`// Ағымдағы күнді алу
+const currentDate = new Date();
+
+// Сяо Миннің туған күнін орнату
+const birthday = new Date(1992, 0, 15);
+
+// Жасты есептеу
+let age = currentDate.getFullYear() - birthday.getFullYear();
+
+if (
+  currentDate.getMonth() < birthday.getMonth() ||
+  (currentDate.getMonth() === birthday.getMonth() && currentDate.getDate() < birthday.getDate())
+) {
+  age--;
+}
+
+// Келесі туған күнге дейінгі күн санын есептеу
+let nextBirthday = new Date(currentDate.getFullYear(), birthday.getMonth(), birthday.getDate());
+if (currentDate > nextBirthday) {
+  nextBirthday.setFullYear(nextBirthday.getFullYear() + 1);
+}
+
+const daysUntilNextBirthday = Math.ceil((nextBirthday - currentDate) / (1000 * 60 * 60 * 24));
+
+console.log("Жасы: " + age);
+console.log("Келесі туған күніне дейінгі күндер саны: " + daysUntilNextBirthday);`}
+/>
+
+<CodePythonBlock
+  title="📄 Python"
+  language="python"
+  code={`import datetime
+
+# Ағымдағы күнді алу
+current_date = datetime.date.today()
+
+# Сяо Миннің туған күнін орнату
+birthday = datetime.date(1992, 1, 15)
+
+# Жасты есептеу
+age = current_date.year - birthday.year
+if current_date.month < birthday.month or (current_date.month == birthday.month and current_date.day < birthday.day):
+    age -= 1
+
+# Келесі туған күнге дейінгі күн санын есептеу
+next_birthday = datetime.date(current_date.year, birthday.month, birthday.day)
+if current_date > next_birthday:
+    next_birthday = datetime.date(current_date.year + 1, birthday.month, birthday.day)
+
+days_until_next_birthday = (next_birthday - current_date).days
+
+# Нәтижені шығару
+print("Жасы:", age)
+print("Келесі туған күніне дейінгі күндер саны:", days_until_next_birthday)`}
+/>
+
+---
+
+### 🧾 Кодты түсіндіру
+
+- Python `datetime.date` класы күнмен жұмыс істеуге арналған.
+- JavaScript `Date` класы арқылы күн мен уақыт алынады.
+- Python күндермен `-` сияқты арифметикалық операцияларды тікелей орындауға мүмкіндік береді.
+
+---
+
+### 📊 Жылдам салыстыру
+
+| Ерекшелік                     | JavaScript                         | Python                              |
+|------------------------------|-------------------------------------|-------------------------------------|
+| Күн мен уақытты жасау         | `new Date(1992, 0, 15)`            | `datetime.datetime(1992, 1, 15)`   |
+| Ағымдағы күн мен уақыт        | `new Date()`                       | `datetime.datetime.now()`          |
+| Ағымдағы UTC уақыты           | `new Date().toUTCString()`         | `datetime.datetime.utcnow()`       |
+| Күнді форматтау              | `moment().format()`                | `.strftime()`                      |
+| Жыл, ай, күнді алу           | `.getFullYear()`, `.getMonth()+1`  | `.year`, `.month`, `.day`          |
+| Сағат, минут, секунд алу     | `.getHours()` және т.б.            | `.hour`, `.minute`, `.second`      |
+| Уақыт қосу/азайту            | `setSeconds(...) + ...`            | `+ timedelta(...)`                 |
+| Күндерді салыстыру           | `date1 - date2`                    | `datetime1 - datetime2`            |
+
+---
+
+### ⏱ timedelta қолдану
+
+<CodePythonBlock
+  title="🕒 Python — timedelta қолдану"
+  language="python"
+  code={`from datetime import timedelta, datetime
+
+current_datetime = datetime.now()
+
+# Қазірден бастап 2 күн, 3 сағат, 30 минут қосу
+new_datetime = current_datetime + timedelta(days=2, hours=3, minutes=30)
+print(new_datetime)`}
+/>
+
+---
+
+### 📚 Ресурстар
+
+- [Python datetime ресми құжаттама](https://docs.python.org/3/library/datetime.html)

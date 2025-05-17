@@ -1,0 +1,320 @@
+{
+  "theme.ErrorPageContent.title": {
+    "message": "Бұл бет бұзылды.",
+    "description": "Бет бұзылған кездегі қосалқы беттің тақырыбы"
+  },
+    "theme.BackToTopButton.buttonAriaLabel": {
+      "message": "Жоғарыға айналдыру",
+      "description": "Жоғарыға оралу түймесінің ARIA белгісі"
+    },
+    "theme.blog.archive.title": {
+      "message": "Мұрағат",
+      "description": "Блог мұрағаты бетінің атауы"
+    },
+    "theme.blog.archive.description": {
+      "message": "Мұрағат",
+      "description": "Блог мұрағаты бетінің сипаттамасы"
+    },
+    "theme.blog.paginator.navAriaLabel": {
+      "message": "Блог жазбалар тізімі бойынша навигация",
+      "description": "Блог беттерін ауыстыруға арналған ARIA белгісі"
+    },
+    "theme.blog.paginator.newerEntries": {
+      "message": "Жаңа жазбалар",
+      "description": "Алдыңғы блог бетіне өтуге арналған белгі"
+    },
+    "theme.blog.paginator.olderEntries": {
+      "message": "Ескі жазбалар",
+      "description": "Келесі блог бетіне өтуге арналған белгі"
+    },
+    "theme.blog.post.paginator.navAriaLabel": {
+      "message": "Блог жазбасы беті бойынша навигация",
+      "description": "Блог жазбаларын айналдыру үшін ARIA белгісі"
+    },
+    "theme.blog.post.paginator.newerPost": {
+      "message": "Жаңа жазба",
+      "description": "Алдыңғы блог жазбасына өту батырмасының белгісі"
+    },
+    "theme.blog.post.paginator.olderPost": {
+      "message": "Ескі жазба",
+      "description": "Келесі блог жазбасына өту батырмасының белгісі"
+    },
+    "theme.blog.post.plurals": {
+      "message": "Бір жазба|{count} жазба",
+      "description": "\"{count} жазба\" үшін көпше түрде қолданылатын жазба. Тілдегі көпше түрлер санына сай етіп жазу керек"
+    },
+    "theme.blog.tagTitle": {
+      "message": "\"{tagName}\" тегімен белгіленген {nPosts}",
+      "description": "Блог белгісіне арналған бет атауы"
+    },
+    "theme.tags.tagsPageLink": {
+      "message": "Барлық тегтерді қарау",
+      "description": "Тегтер тізімі бетіне апаратын сілтеменің белгісі"
+    },
+    "theme.colorToggle.ariaLabel": {
+      "message": "Қараңғы және ашық режим арасында ауысу (қазіргі режим: {mode})",
+      "description": "Түстер режимі ауыстырғышының ARIA белгісі"
+    },
+    "theme.colorToggle.ariaLabel.mode.dark": {
+      "message": "қараңғы режим",
+      "description": "Қараңғы түс режимінің атауы"
+    },
+    "theme.colorToggle.ariaLabel.mode.light": {
+      "message": "ашық режим",
+      "description": "Ашық түс режимінің атауы"
+    },
+    "theme.docs.DocCard.categoryDescription": {
+      "message": "{count} элемент",
+      "description": "Категория картасындағы элементтер санын көрсететін әдепкі сипаттама"
+    },
+    "theme.docs.breadcrumbs.navAriaLabel": {
+      "message": "Навигация жолы",
+      "description": "Навигация тізбегінің (breadcrumbs) ARIA белгісі"
+    },  
+      "theme.docs.paginator.navAriaLabel": {
+        "message": "Құжат беттері",
+        "description": "Құжат беттерін ауыстыруға арналған ARIA белгісі"
+      },
+      "theme.docs.paginator.previous": {
+        "message": "Алдыңғы",
+        "description": "Алдыңғы құжатқа өтуге арналған белгі"
+      },
+      "theme.docs.paginator.next": {
+        "message": "Келесі",
+        "description": "Келесі құжатқа өтуге арналған белгі"
+      },
+      "theme.docs.versionBadge.label": {
+        "message": "Нұсқа: {versionLabel}"
+      },
+      "theme.docs.tagDocListPageTitle.nDocsTagged": {
+        "message": "Бір құжат белгіленді|{count} құжат белгіленді",
+        "description": "\"{count} құжат белгіленді\" сөз тіркесінің көпше түрі. Тілге сай бірнеше нұсқада жазыңыз"
+      },
+      "theme.docs.tagDocListPageTitle": {
+        "message": "\"{tagName}\" белгісімен {nDocsTagged}",
+        "description": "Құжат белгісіне арналған бет атауы"
+      },
+      "theme.docs.versions.unreleasedVersionLabel": {
+        "message": "Бұл {siteTitle} {versionLabel} нұсқасына арналған жарияланбаған құжаттама.",
+        "description": "Пайдаланушы жарияланбаған нұсқаны қарап жатқанын білдіретін белгі"
+      },
+      "theme.docs.versions.unmaintainedVersionLabel": {
+        "message": "Бұл {siteTitle} {versionLabel} нұсқасына арналған құжаттама, және ол енді белсенді түрде жаңартылмайды.",
+        "description": "Пайдаланушы енді қолдау көрсетілмейтін нұсқаны қарап жатқанын білдіретін белгі"
+      },
+      "theme.docs.versions.latestVersionSuggestionLabel": {
+        "message": "Жаңартылған құжаттама үшін {latestVersionLink} ({versionLabel}) нұсқасын қараңыз.",
+        "description": "Пайдаланушыға соңғы нұсқаны тексеруді ұсынатын белгі"
+      },
+      "theme.docs.versions.latestVersionLinkLabel": {
+        "message": "соңғы нұсқа",
+        "description": "Соңғы нұсқаның сілтеме белгісі"
+      },
+      "theme.common.headingLinkTitle": {
+        "message": "{heading} тақырыбына тікелей сілтеме",
+        "description": "Тақырыпқа сілтеме үшін атау"
+      },
+      "theme.lastUpdated.atDate": {
+        "message": " {date} күні",
+        "description": "Бет соңғы рет қашан жаңартылғанын сипаттайтын сөздер"
+      },
+      "theme.lastUpdated.byUser": {
+        "message": " {user} тарапынан",
+        "description": "Бетті соңғы рет кім жаңартқанын сипаттайтын сөздер"
+      },
+      "theme.lastUpdated.lastUpdatedAtBy": {
+        "message": "Соңғы жаңарту{atDate}{byUser}",
+        "description": "Бетті соңғы рет қашан және кім жаңартқанын көрсететін сөйлем"
+      },
+      "theme.NotFound.title": {
+        "message": "Бет табылмады",
+        "description": "404 беттің атауы"
+      },
+      "theme.navbar.mobileVersionsDropdown.label": {
+        "message": "Нұсқалар",
+        "description": "Мобильді көріністегі нұсқалар ашылмалы мәзірінің белгісі"
+      },    
+      "theme.tags.tagsListLabel": {
+        "message": "Тегтер:",
+        "description": "The label alongside a tag list"
+      },
+      "theme.AnnouncementBar.closeButtonAriaLabel": {
+        "message": "Жабу",
+        "description": "The ARIA label for close button of announcement bar"
+      },
+      "theme.admonition.caution": {
+        "message": "сақ болыңыз",
+        "description": "The default label used for the Caution admonition (:::caution)"
+      },
+        "theme.admonition.danger": {
+          "message": "қауіп",
+          "description": "Қауіп туралы ескерту үшін әдепкі белгі (:::danger)"
+        },
+        "theme.admonition.info": {
+          "message": "ақпарат",
+          "description": "Ақпараттық ескерту үшін әдепкі белгі (:::info)"
+        },
+        "theme.admonition.note": {
+          "message": "ескертпе",
+          "description": "Ескертпе үшін әдепкі белгі (:::note)"
+        },
+        "theme.admonition.tip": {
+          "message": "кеңес",
+          "description": "Кеңес үшін әдепкі белгі (:::tip)"
+        },
+        "theme.admonition.warning": {
+          "message": "ескерту",
+          "description": "Ескерту үшін әдепкі белгі (:::warning)"
+        },
+        "theme.blog.sidebar.navAriaLabel": {
+          "message": "Блогтың соңғы жазбаларына өту",
+          "description": "Блог бүйір панеліндегі соңғы жазбалар үшін ARIA белгісі"
+        },
+        "theme.CodeBlock.copied": {
+          "message": "Көшірілді",
+          "description": "Код блогындағы көшірме батырмасының белгісі"
+        },
+        "theme.CodeBlock.copyButtonAriaLabel": {
+          "message": "Кодты алмасу буферіне көшіру",
+          "description": "Кодты көшіру батырмасы үшін ARIA белгісі"
+        },
+        "theme.CodeBlock.copy": {
+          "message": "Көшіру",
+          "description": "Көшіру батырмасының белгісі"
+        },
+        "theme.CodeBlock.wordWrapToggle": {
+          "message": "Сөзді тасымалдауды қосу/өшіру",
+          "description": "Код жолдарында тасымалдауды басқару батырмасының тақырып атрибуты"
+        },
+        "theme.DocSidebarItem.expandCategoryAriaLabel": {
+          "message": "'{label}' санатын кеңейту",
+          "description": "Бүйір панель санатын кеңейту үшін ARIA белгісі"
+        },
+        "theme.DocSidebarItem.collapseCategoryAriaLabel": {
+          "message": "'{label}' санатын жиыру",
+          "description": "Бүйір панель санатын жиыру үшін ARIA белгісі"
+        },
+        "theme.NavBar.navAriaLabel": {
+          "message": "Негізгі мәзір",
+          "description": "Негізгі навигация үшін ARIA белгісі"
+        },
+        "theme.NotFound.p1": {
+          "message": "Сіз іздеген бетті таба алмадық.",
+          "description": "404 бетінің бірінші абзацы"
+        },
+        "theme.NotFound.p2": {
+          "message": "Сілтемені берген сайт иесіне хабарласыңыз және сілтеменің бұзылғанын хабарлаңыз.",
+          "description": "404 бетінің екінші абзацы"
+        },      
+        "theme.TOCCollapsible.toggleButtonLabel": {
+          "message": "Осы бетте",
+          "description": "TOC (мазмұн кестесі) компонентінің батырмасы үшін белгі"
+        },
+        "theme.blog.post.readMore": {
+          "message": "Толығырақ оқу",
+          "description": "Блог жазбасының үзіндісінен толық нұсқасына сілтеме белгісі"
+        },
+        "theme.blog.post.readMoreLabel": {
+          "message": "{title} туралы толығырақ оқу",
+          "description": "Блог жазбасының толық нұсқасына сілтеме үшін ARIA белгі"
+        },
+        "theme.navbar.mobileLanguageDropdown.label": {
+          "message": "Тілдер",
+          "description": "Мобильді көріністегі тіл ауыстырғыш ашылмалы мәзірінің белгісі"
+        },
+        "theme.blog.post.readingTime.plurals": {
+          "message": "Бір минут оқу|{readingTime} минут оқу",
+          "description": "\"{readingTime} минут оқу\" үшін көпше түрде белгі. Тілге байланысты көпше түрлерді \"|\" арқылы бөліп жазыңыз"
+        },
+        "theme.docs.breadcrumbs.home": {
+          "message": "Басты бет",
+          "description": "Breadcrumbs ішіндегі басты бетке сілтеме белгісі"
+        },
+        "theme.docs.sidebar.collapseButtonTitle": {
+          "message": "Бүйірлік мәзірді жию",
+          "description": "Құжаттар мәзірін жию батырмасының тақырып атрибуты"
+        },
+        "theme.docs.sidebar.collapseButtonAriaLabel": {
+          "message": "Бүйірлік мәзірді жию",
+          "description": "Құжаттар мәзірін жию батырмасының ARIA белгісі"
+        },
+        "theme.docs.sidebar.navAriaLabel": {
+          "message": "Құжаттар бүйірлік мәзірі",
+          "description": "Бүйірлік навигация мәзірінің ARIA белгісі"
+        },
+        "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+          "message": "Навигацияны жабу",
+          "description": "Мобильді бүйірлік мәзірді жабу батырмасының ARIA белгісі"
+        },
+        "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+          "message": "← Негізгі мәзірге оралу",
+          "description": "Құжаттар бүйірлік мәзірінен негізгі мәзірге қайту батырмасының белгісі"
+        },
+        "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+          "message": "Навигация мәзірін ауыстыру",
+          "description": "Мобильді навигация үшін гамбургер мәзір батырмасының ARIA белгісі"
+        },
+        "theme.docs.sidebar.expandButtonTitle": {
+          "message": "Бүйірлік мәзірді кеңейту",
+          "description": "Құжаттар мәзірін кеңейту батырмасының ARIA белгісі мен тақырып атрибуты"
+        },
+        "theme.docs.sidebar.expandButtonAriaLabel": {
+          "message": "Бүйірлік мәзірді кеңейту",
+          "description": "Құжаттар мәзірін кеңейту батырмасының ARIA белгісі мен тақырып атрибуты"
+        },
+        "theme.SearchPage.existingResultsTitle": {
+          "message": "\"{query}\" үшін іздеу нәтижелері",
+          "description": "Іздеу сұранысы бос емес болған кездегі іздеу бетінің атауы"
+        },
+        "theme.SearchPage.emptyResultsTitle": {
+          "message": "Құжаттамадан іздеу",
+          "description": "Іздеу сұранысы бос болған кездегі іздеу бетінің атауы"
+        },
+        "theme.SearchPage.searchContext.everywhere": {
+          "message": "барлық жерде"
+        },
+        "theme.SearchPage.documentsFound.plurals": {
+          "message": "1 құжат табылды|{count} құжат табылды",
+          "description": "\"{count} құжат табылды\" үшін көпше түрде белгі. Тілді қолдау үшін көпше түрлерді \"|\" арқылы бөліңіз"
+        },
+        "theme.SearchPage.noResultsText": {
+          "message": "Құжаттар табылмады",
+          "description": "Іздеу нәтижесі болмаған кездегі абзац"
+        },
+        "theme.SearchBar.noResultsText": {
+          "message": "Нәтиже жоқ"
+        },
+        "theme.SearchBar.seeAll": {
+          "message": "Барлық нәтижелерді көру"
+        },
+        "theme.SearchBar.seeAllOutsideContext": {
+          "message": "{context} шегінен тыс нәтижелерді көру"
+        },
+        "theme.SearchBar.searchInContext": {
+          "message": "{context} ішінде барлық нәтижелерді көру"
+        },
+        "theme.SearchBar.label": {
+          "message": "Іздеу",
+          "description": "Іздеу батырмасының ARIA белгісі және placeholder"
+        },
+        "theme.ErrorPageContent.tryAgain": {
+          "message": "Қайта көру",
+          "description": "React қателігі кезінде қайта жүктеу батырмасының белгісі"
+        },
+        "theme.common.skipToMainContent": {
+          "message": "Негізгі мазмұнға өту",
+          "description": "Клавиатурамен негізгі бөлімге жылдам өтуге мүмкіндік беретін қолжетімділік белгісі"
+        },
+        "theme.tags.tagsPageTitle": {
+          "message": "Тегтер",
+          "description": "Тегтер тізімі бетінің атауы"
+        },
+        "theme.unlistedContent.title": {
+          "message": "Тізімде жоқ бет",
+          "description": "Тізімге енбеген мазмұн баннерінің атауы"
+        },
+        "theme.unlistedContent.message": {
+          "message": "Бұл бет тізімде жоқ. Іздеу жүйелері оны индекстемейді, тек сілтемесі бар қолданушылар ғана көре алады.",
+          "description": "Тізімге енбеген мазмұн туралы хабарлама"
+        }
+      }

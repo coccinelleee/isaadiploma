@@ -1,0 +1,28 @@
+{
+  "id": "third-party-packages",
+  "title": "Танымал үшінші тарап пакеттері",
+  "description": "Бағдарламалау тілін үйренуде экожүйе маңызды рөл атқарады, ал Python көптеген пайдалы үшінші тарап пакеттеріне ие, олар дамытуды айтарлықтай жеңілдетеді.",
+  "source": "@site/docs/third-party-packages.md",
+  "sourceDirName": ".",
+  "slug": "/third-party-packages",
+  "permalink": "/python-guide-for-javascript-engineers/third-party-packages",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "third-party-packages",
+    "slug": "/third-party-packages",
+    "title": "Танымал үшінші тарап пакеттері",
+    "sidebar_label": "Танымал үшінші тарап пакеттері"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Үздіксіз оқыту",
+    "permalink": "/python-guide-for-javascript-engineers/lifelong-learning"
+  },
+  "next": {
+    "title": "Ресурстар",
+    "permalink": "/python-guide-for-javascript-engineers/references"
+  }
+}

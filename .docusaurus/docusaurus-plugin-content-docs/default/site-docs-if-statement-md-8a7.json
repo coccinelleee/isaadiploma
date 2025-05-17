@@ -1,0 +1,28 @@
+{
+  "id": "if-statement",
+  "title": "If операторы",
+  "description": "if операторы — белгілі бір шарттың орындалуына байланысты кодтың орындалуын басқаратын басқару құрылымы. Python мен JavaScript тілдерінде бұл оператордың функциясы ұқсас болғанымен, синтаксисінде елеулі айырмашылықтар бар.",
+  "source": "@site/docs/if-statement.md",
+  "sourceDirName": ".",
+  "slug": "/if-statement",
+  "permalink": "/python-guide-for-javascript-engineers/if-statement",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "if-statement",
+    "slug": "/if-statement",
+    "title": "If операторы",
+    "sidebar_label": "If операторы"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Set",
+    "permalink": "/python-guide-for-javascript-engineers/set"
+  },
+  "next": {
+    "title": "For және While",
+    "permalink": "/python-guide-for-javascript-engineers/for-and-while-statement"
+  }
+}

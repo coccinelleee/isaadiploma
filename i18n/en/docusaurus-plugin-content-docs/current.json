@@ -1,0 +1,90 @@
+{
+  "version.label": {
+    "message": "Келесі",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.Introduction": {
+    "message": "Кіріспе",
+    "description": "The label for category Introduction in sidebar docs"
+  },
+  "sidebar.docs.category.Part 1 - Python Basics": {
+    "message": "1-бөлім – Python негіздері",
+    "description": "The label for category Part 1 - Python Basics in sidebar docs"
+  },
+  "sidebar.docs.category.Development Environment": {
+    "message": "Дамыту ортасы",
+    "description": "The label for category Development Environment in sidebar docs"
+  },
+  "sidebar.docs.category.Variables": {
+    "message": "Айнымалылар",
+    "description": "The label for category Variables in sidebar docs"
+  },
+  "sidebar.docs.category.Data Types": {
+    "message": "Деректер түрлері",
+    "description": "The label for category Data Types in sidebar docs"
+  },
+  "sidebar.docs.category.Branching and Loops": {
+    "message": "Тармақталу және циклдер",
+    "description": "The label for category Branching and Loops in sidebar docs"
+  },
+  "sidebar.docs.category.Part 2 - Python Intermediate": {
+    "message": "2-бөлім – Python ортасы",
+    "description": "The label for category Part 2 - Python Intermediate in sidebar docs"
+  },
+  "sidebar.docs.category.Functions": {
+    "message": "Функциялар",
+    "description": "The label for category Functions in sidebar docs"
+  },
+  "sidebar.docs.category.Modules and Packages": {
+    "message": "Модульдер мен пакеттер",
+    "description": "The label for category Modules and Packages in sidebar docs"
+  },
+  "sidebar.docs.category.File Operations": {
+    "message": "Файлдармен жұмыс",
+    "description": "The label for category File Operations in sidebar docs"
+  },
+  "sidebar.docs.category.Built-in Modules": {
+    "message": "Кірістірілген модульдер",
+    "description": "The label for category Built-in Modules in sidebar docs"
+  },
+  "sidebar.docs.category.Part 3 - Python Advanced": {
+    "message": "3-бөлім – Python жетілдірілген",
+    "description": "The label for category Part 3 - Python Advanced in sidebar docs"
+  },
+  "sidebar.docs.category.Object-Oriented Programming": {
+    "message": "Объектіге бағытталған бағдарламалау",
+    "description": "The label for category Object-Oriented Programming in sidebar docs"
+  },
+  "sidebar.docs.category.Exception Handling": {
+    "message": "Қателерді өңдеу",
+    "description": "The label for category Exception Handling in sidebar docs"
+  },
+  "sidebar.docs.category.Project Dependency Management": {
+    "message": "Жобаның тәуелділіктерін басқару",
+    "description": "The label for category Project Dependency Management in sidebar docs"
+  },
+  "sidebar.docs.category.Type Systems": {
+    "message": "Түр жүйелері",
+    "description": "The label for category Type Systems in sidebar docs"
+  },
+  "sidebar.docs.category.Part 4 - Comprehensive Cases": {
+    "message": "4-бөлім – Кешенді мысалдар",
+    "description": "The label for category Part 4 - Comprehensive Cases in sidebar docs"
+  },
+  "sidebar.docs.category.Command-Line Tools": {
+    "message": "Командалық жол құралдары",
+    "description": "The label for category Command-Line Tools in sidebar docs"
+  },
+  "sidebar.docs.category.Web Scraping": {
+    "message": "Веб-қырып алу (Scraping)",
+    "description": "The label for category Web Scraping in sidebar docs"
+  },
+  "sidebar.docs.category.Web API": {
+    "message": "Веб API",
+    "description": "The label for category Web API in sidebar docs"
+  },
+  "sidebar.docs.category.Appendix": {
+    "message": "Қосымша бөлім",
+    "description": "The label for category Appendix in sidebar docs"
+  }
+}
