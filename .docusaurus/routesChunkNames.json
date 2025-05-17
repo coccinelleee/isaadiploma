@@ -1,184 +1,184 @@
 {
-  "/python-guide-for-javascript-engineers/zh-cn/search-e1b": {
+  "/isaadiploma/zh-cn/search-41e": {
     "__comp": "1a4e3797",
     "__context": {
       "plugin": "138e0e15"
     }
   },
-  "/python-guide-for-javascript-engineers/zh-cn/-961": {
+  "/isaadiploma/zh-cn/-cde": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/python-guide-for-javascript-engineers/zh-cn/-1b1": {
+  "/isaadiploma/zh-cn/-8b2": {
     "__comp": "a7bd4aaa",
-    "__props": "4f29292d"
+    "__props": "4fa611ed"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/-008": {
+  "/isaadiploma/zh-cn/-25b": {
     "__comp": "a94703ab"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/about-the-book-b89": {
+  "/isaadiploma/zh-cn/about-the-book-d44": {
     "__comp": "17896441",
     "content": "ed5d134e"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/afterword-14f": {
+  "/isaadiploma/zh-cn/afterword-1fd": {
     "__comp": "17896441",
     "content": "88537089"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/anonymous-functions-319": {
+  "/isaadiploma/zh-cn/anonymous-functions-a3d": {
     "__comp": "17896441",
     "content": "6bbbb72f"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/arithmetic-operation-ae5": {
+  "/isaadiploma/zh-cn/arithmetic-operation-142": {
     "__comp": "17896441",
     "content": "d2d9ab35"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/basic-types-c29": {
+  "/isaadiploma/zh-cn/basic-types-dc9": {
     "__comp": "17896441",
     "content": "595be38c"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/class-and-instance-b4d": {
+  "/isaadiploma/zh-cn/class-and-instance-061": {
     "__comp": "17896441",
     "content": "95ce6d41"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/comprehension-expressions-663": {
+  "/isaadiploma/zh-cn/comprehension-expressions-9c8": {
     "__comp": "17896441",
     "content": "226722a0"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/create-and-import-of-modules-676": {
+  "/isaadiploma/zh-cn/create-and-import-of-modules-040": {
     "__comp": "17896441",
     "content": "6fff25e9"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/create-and-import-packages-df1": {
+  "/isaadiploma/zh-cn/create-and-import-packages-d3a": {
     "__comp": "17896441",
     "content": "48d62415"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/custom-exception-classes-0f0": {
+  "/isaadiploma/zh-cn/custom-exception-classes-58a": {
     "__comp": "17896441",
     "content": "2e554d34"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/datetime-module-9ee": {
+  "/isaadiploma/zh-cn/datetime-module-630": {
     "__comp": "17896441",
     "content": "fdf0742e"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/definition-and-assignment-of-variables-e50": {
+  "/isaadiploma/zh-cn/definition-and-assignment-of-variables-e19": {
     "__comp": "17896441",
     "content": "3711dc20"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/definition-and-invocation-of-functions-70e": {
+  "/isaadiploma/zh-cn/definition-and-invocation-of-functions-ccc": {
     "__comp": "17896441",
     "content": "0e24665f"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/dictionary-d04": {
+  "/isaadiploma/zh-cn/dictionary-9b0": {
     "__comp": "17896441",
     "content": "3cd505c7"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/for-and-while-statement-efd": {
+  "/isaadiploma/zh-cn/for-and-while-statement-0be": {
     "__comp": "17896441",
     "content": "28df18b5"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/hello-world-57f": {
+  "/isaadiploma/zh-cn/hello-world-7e5": {
     "__comp": "17896441",
     "content": "a99f1342"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/how-to-use-the-book-dc4": {
+  "/isaadiploma/zh-cn/how-to-use-the-book-2cd": {
     "__comp": "17896441",
     "content": "a2237366"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/if-statement-a4e": {
+  "/isaadiploma/zh-cn/if-statement-c7d": {
     "__comp": "17896441",
     "content": "0d708d8c"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/json-module-6ab": {
+  "/isaadiploma/zh-cn/json-module-f12": {
     "__comp": "17896441",
     "content": "722026c5"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/lifelong-learning-690": {
+  "/isaadiploma/zh-cn/lifelong-learning-ad2": {
     "__comp": "17896441",
     "content": "29cbd566"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/lists-and-tuples-a1b": {
+  "/isaadiploma/zh-cn/lists-and-tuples-85e": {
     "__comp": "17896441",
     "content": "cc03323a"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/math-module-857": {
+  "/isaadiploma/zh-cn/math-module-e31": {
     "__comp": "17896441",
     "content": "e2feaeac"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/naming-rules-for-variables-303": {
+  "/isaadiploma/zh-cn/naming-rules-for-variables-b90": {
     "__comp": "17896441",
     "content": "32a5c708"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/os-module-8e9": {
+  "/isaadiploma/zh-cn/os-module-089": {
     "__comp": "17896441",
     "content": "2c2fa793"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/pip-4a2": {
+  "/isaadiploma/zh-cn/pip-d34": {
     "__comp": "17896441",
     "content": "32d7b3d8"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/poetry-cd9": {
+  "/isaadiploma/zh-cn/poetry-784": {
     "__comp": "17896441",
     "content": "afeeb15d"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/random-module-d78": {
+  "/isaadiploma/zh-cn/random-module-51c": {
     "__comp": "17896441",
     "content": "be862b05"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/re-module-97f": {
+  "/isaadiploma/zh-cn/re-module-94e": {
     "__comp": "17896441",
     "content": "76317b24"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/read-and-write-files-2f5": {
+  "/isaadiploma/zh-cn/read-and-write-files-218": {
     "__comp": "17896441",
     "content": "07417d44"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/references-6ef": {
+  "/isaadiploma/zh-cn/references-a60": {
     "__comp": "17896441",
     "content": "b75ad1be"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/set-e04": {
+  "/isaadiploma/zh-cn/set-182": {
     "__comp": "17896441",
     "content": "afe75284"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/setup-environment-09d": {
+  "/isaadiploma/zh-cn/setup-environment-963": {
     "__comp": "17896441",
     "content": "314aef45"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/task-book-store-a53": {
+  "/isaadiploma/zh-cn/task-book-store-82d": {
     "__comp": "17896441",
     "content": "d8378c49"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/task-list-files-c8c": {
+  "/isaadiploma/zh-cn/task-list-files-241": {
     "__comp": "17896441",
     "content": "b41f2acd"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/task-top-50-in-github-62c": {
+  "/isaadiploma/zh-cn/task-top-50-in-github-b75": {
     "__comp": "17896441",
     "content": "e9093877"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/third-party-packages-b40": {
+  "/isaadiploma/zh-cn/third-party-packages-4ca": {
     "__comp": "17896441",
     "content": "118d029b"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/try-except-statements-b9d": {
+  "/isaadiploma/zh-cn/try-except-statements-a44": {
     "__comp": "17896441",
     "content": "acc29c8c"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/type-conversion-4e8": {
+  "/isaadiploma/zh-cn/type-conversion-cb0": {
     "__comp": "17896441",
     "content": "c9b1d311"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/typing-annotation-000": {
+  "/isaadiploma/zh-cn/typing-annotation-e7b": {
     "__comp": "17896441",
     "content": "0a2598e2"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/venv-and-conda-and-condaip-e81": {
+  "/isaadiploma/zh-cn/venv-and-conda-and-condaip-509": {
     "__comp": "17896441",
     "content": "dc50075e"
   },
-  "/python-guide-for-javascript-engineers/zh-cn/-713": {
+  "/isaadiploma/zh-cn/-3da": {
     "__comp": "17896441",
     "content": "4edc808e"
   }

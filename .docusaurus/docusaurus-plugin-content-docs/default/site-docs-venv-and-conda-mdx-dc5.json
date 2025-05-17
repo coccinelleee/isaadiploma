@@ -5,7 +5,7 @@
   "source": "@site/docs/venv-and-conda.mdx",
   "sourceDirName": ".",
   "slug": "/venv-and-conda-and-condaip",
-  "permalink": "/python-guide-for-javascript-engineers/zh-cn/venv-and-conda-and-condaip",
+  "permalink": "/isaadiploma/zh-cn/venv-and-conda-and-condaip",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -19,10 +19,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Pip",
-    "permalink": "/python-guide-for-javascript-engineers/zh-cn/pip"
+    "permalink": "/isaadiploma/zh-cn/pip"
   },
   "next": {
     "title": "Poetry",
-    "permalink": "/python-guide-for-javascript-engineers/zh-cn/poetry"
+    "permalink": "/isaadiploma/zh-cn/poetry"
   }
 }

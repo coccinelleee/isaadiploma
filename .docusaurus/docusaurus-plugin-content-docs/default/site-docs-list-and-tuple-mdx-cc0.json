@@ -5,7 +5,7 @@
   "source": "@site/docs/list-and-tuple.mdx",
   "sourceDirName": ".",
   "slug": "/lists-and-tuples",
-  "permalink": "/python-guide-for-javascript-engineers/zh-cn/lists-and-tuples",
+  "permalink": "/isaadiploma/zh-cn/lists-and-tuples",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -19,10 +19,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Типті түрлендіру",
-    "permalink": "/python-guide-for-javascript-engineers/zh-cn/type-conversion"
+    "permalink": "/isaadiploma/zh-cn/type-conversion"
   },
   "next": {
     "title": "Сөздік",
-    "permalink": "/python-guide-for-javascript-engineers/zh-cn/dictionary"
+    "permalink": "/isaadiploma/zh-cn/dictionary"
   }
 }

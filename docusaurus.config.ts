@@ -5,13 +5,14 @@ import type { Options } from '@docusaurus/preset-classic'
 const config: Config = {
   title: 'JavaScript инженерлеріне арналған Python нұсқаулығы',
   tagline: 'Python, JavaScript, programming, experience, tutorials, open source, free, eBooks, downloads, PDF, examples',
-  url: 'https://luckrnx09.com',
-  baseUrl: '/python-guide-for-javascript-engineers/',
+  organizationName: 'coccinelleee',
+  projectName: 'isaadiploma',
+  url: 'https://coccinelleee.github.io',
+  baseUrl: '/isaadiploma/',         
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
   favicon: 'img/favicon.ico',
-  projectName: 'python-guide-for-javascript-engineers',
   presets: [
     [
       'classic',

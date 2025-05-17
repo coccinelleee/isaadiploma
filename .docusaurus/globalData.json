@@ -1,218 +1,218 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/python-guide-for-javascript-engineers/zh-cn/",
+      "path": "/isaadiploma/zh-cn/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/python-guide-for-javascript-engineers/zh-cn/",
+          "path": "/isaadiploma/zh-cn/",
           "mainDocId": "index",
           "docs": [
             {
               "id": "about-the-book",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/about-the-book",
+              "path": "/isaadiploma/zh-cn/about-the-book",
               "sidebar": "docs"
             },
             {
               "id": "afterword",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/afterword",
+              "path": "/isaadiploma/zh-cn/afterword",
               "sidebar": "docs"
             },
             {
               "id": "anonymous-functions",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/anonymous-functions",
+              "path": "/isaadiploma/zh-cn/anonymous-functions",
               "sidebar": "docs"
             },
             {
               "id": "arithmetic-operation",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/arithmetic-operation",
+              "path": "/isaadiploma/zh-cn/arithmetic-operation",
               "sidebar": "docs"
             },
             {
               "id": "basic-types",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/basic-types",
+              "path": "/isaadiploma/zh-cn/basic-types",
               "sidebar": "docs"
             },
             {
               "id": "class-and-instance",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/class-and-instance",
+              "path": "/isaadiploma/zh-cn/class-and-instance",
               "sidebar": "docs"
             },
             {
               "id": "comprehension-expressions",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/comprehension-expressions",
+              "path": "/isaadiploma/zh-cn/comprehension-expressions",
               "sidebar": "docs"
             },
             {
               "id": "create-and-import-modules",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/create-and-import-of-modules",
+              "path": "/isaadiploma/zh-cn/create-and-import-of-modules",
               "sidebar": "docs"
             },
             {
               "id": "create-and-import-packages",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/create-and-import-packages",
+              "path": "/isaadiploma/zh-cn/create-and-import-packages",
               "sidebar": "docs"
             },
             {
               "id": "custom-exception-classes",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/custom-exception-classes",
+              "path": "/isaadiploma/zh-cn/custom-exception-classes",
               "sidebar": "docs"
             },
             {
               "id": "datetime-module",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/datetime-module",
+              "path": "/isaadiploma/zh-cn/datetime-module",
               "sidebar": "docs"
             },
             {
               "id": "definition-and-assignment-of-variables",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/definition-and-assignment-of-variables",
+              "path": "/isaadiploma/zh-cn/definition-and-assignment-of-variables",
               "sidebar": "docs"
             },
             {
               "id": "definition-and-invocation-of-functions",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/definition-and-invocation-of-functions",
+              "path": "/isaadiploma/zh-cn/definition-and-invocation-of-functions",
               "sidebar": "docs"
             },
             {
               "id": "dictionary",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/dictionary",
+              "path": "/isaadiploma/zh-cn/dictionary",
               "sidebar": "docs"
             },
             {
               "id": "for-and-while-statement",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/for-and-while-statement",
+              "path": "/isaadiploma/zh-cn/for-and-while-statement",
               "sidebar": "docs"
             },
             {
               "id": "hello-world",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/hello-world",
+              "path": "/isaadiploma/zh-cn/hello-world",
               "sidebar": "docs"
             },
             {
               "id": "how-to-use-the-book",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/how-to-use-the-book",
+              "path": "/isaadiploma/zh-cn/how-to-use-the-book",
               "sidebar": "docs"
             },
             {
               "id": "if-statement",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/if-statement",
+              "path": "/isaadiploma/zh-cn/if-statement",
               "sidebar": "docs"
             },
             {
               "id": "index",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/",
+              "path": "/isaadiploma/zh-cn/",
               "sidebar": "docs"
             },
             {
               "id": "json-module",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/json-module",
+              "path": "/isaadiploma/zh-cn/json-module",
               "sidebar": "docs"
             },
             {
               "id": "lifelong-learning",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/lifelong-learning",
+              "path": "/isaadiploma/zh-cn/lifelong-learning",
               "sidebar": "docs"
             },
             {
               "id": "lists-and-tuples",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/lists-and-tuples",
+              "path": "/isaadiploma/zh-cn/lists-and-tuples",
               "sidebar": "docs"
             },
             {
               "id": "math-module",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/math-module",
+              "path": "/isaadiploma/zh-cn/math-module",
               "sidebar": "docs"
             },
             {
               "id": "naming-rules-for-variables",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/naming-rules-for-variables",
+              "path": "/isaadiploma/zh-cn/naming-rules-for-variables",
               "sidebar": "docs"
             },
             {
               "id": "os-module",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/os-module",
+              "path": "/isaadiploma/zh-cn/os-module",
               "sidebar": "docs"
             },
             {
               "id": "pip",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/pip",
+              "path": "/isaadiploma/zh-cn/pip",
               "sidebar": "docs"
             },
             {
               "id": "poetry",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/poetry",
+              "path": "/isaadiploma/zh-cn/poetry",
               "sidebar": "docs"
             },
             {
               "id": "random-module",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/random-module",
+              "path": "/isaadiploma/zh-cn/random-module",
               "sidebar": "docs"
             },
             {
               "id": "re-module",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/re-module",
+              "path": "/isaadiploma/zh-cn/re-module",
               "sidebar": "docs"
             },
             {
               "id": "read-and-write-files",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/read-and-write-files",
+              "path": "/isaadiploma/zh-cn/read-and-write-files",
               "sidebar": "docs"
             },
             {
               "id": "references",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/references",
+              "path": "/isaadiploma/zh-cn/references",
               "sidebar": "docs"
             },
             {
               "id": "set",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/set",
+              "path": "/isaadiploma/zh-cn/set",
               "sidebar": "docs"
             },
             {
               "id": "setup-environment",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/setup-environment",
+              "path": "/isaadiploma/zh-cn/setup-environment",
               "sidebar": "docs"
             },
             {
               "id": "task-book-store",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/task-book-store",
+              "path": "/isaadiploma/zh-cn/task-book-store",
               "sidebar": "docs"
             },
             {
               "id": "task-list-files",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/task-list-files",
+              "path": "/isaadiploma/zh-cn/task-list-files",
               "sidebar": "docs"
             },
             {
               "id": "task-top-50-in-github",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/task-top-50-in-github",
+              "path": "/isaadiploma/zh-cn/task-top-50-in-github",
               "sidebar": "docs"
             },
             {
               "id": "third-party-packages",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/third-party-packages",
+              "path": "/isaadiploma/zh-cn/third-party-packages",
               "sidebar": "docs"
             },
             {
               "id": "try-except-statements",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/try-except-statements",
+              "path": "/isaadiploma/zh-cn/try-except-statements",
               "sidebar": "docs"
             },
             {
               "id": "type-conversion",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/type-conversion",
+              "path": "/isaadiploma/zh-cn/type-conversion",
               "sidebar": "docs"
             },
             {
               "id": "typing-annotation",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/typing-annotation",
+              "path": "/isaadiploma/zh-cn/typing-annotation",
               "sidebar": "docs"
             },
             {
               "id": "venv-and-conda",
-              "path": "/python-guide-for-javascript-engineers/zh-cn/venv-and-conda-and-condaip",
+              "path": "/isaadiploma/zh-cn/venv-and-conda-and-condaip",
               "sidebar": "docs"
             }
           ],
@@ -220,7 +220,7 @@
           "sidebars": {
             "docs": {
               "link": {
-                "path": "/python-guide-for-javascript-engineers/zh-cn/",
+                "path": "/isaadiploma/zh-cn/",
                 "label": "index"
               }
             }

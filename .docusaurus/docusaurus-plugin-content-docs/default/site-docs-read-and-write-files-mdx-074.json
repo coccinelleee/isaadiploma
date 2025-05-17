@@ -5,7 +5,7 @@
   "source": "@site/docs/read-and-write-files.mdx",
   "sourceDirName": ".",
   "slug": "/read-and-write-files",
-  "permalink": "/python-guide-for-javascript-engineers/zh-cn/read-and-write-files",
+  "permalink": "/isaadiploma/zh-cn/read-and-write-files",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -19,10 +19,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Пакеттерді құру және импорттау",
-    "permalink": "/python-guide-for-javascript-engineers/zh-cn/create-and-import-packages"
+    "permalink": "/isaadiploma/zh-cn/create-and-import-packages"
   },
   "next": {
     "title": "Datetime модулі",
-    "permalink": "/python-guide-for-javascript-engineers/zh-cn/datetime-module"
+    "permalink": "/isaadiploma/zh-cn/datetime-module"
   }
 }

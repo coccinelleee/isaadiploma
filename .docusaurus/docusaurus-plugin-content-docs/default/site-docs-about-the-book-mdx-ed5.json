@@ -5,7 +5,7 @@
   "source": "@site/docs/about-the-book.mdx",
   "sourceDirName": ".",
   "slug": "/about-the-book",
-  "permalink": "/python-guide-for-javascript-engineers/zh-cn/about-the-book",
+  "permalink": "/isaadiploma/zh-cn/about-the-book",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -19,10 +19,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Басты бет",
-    "permalink": "/python-guide-for-javascript-engineers/zh-cn/"
+    "permalink": "/isaadiploma/zh-cn/"
   },
   "next": {
     "title": "Кітапты қалай пайдалану керек",
-    "permalink": "/python-guide-for-javascript-engineers/zh-cn/how-to-use-the-book"
+    "permalink": "/isaadiploma/zh-cn/how-to-use-the-book"
   }
 }

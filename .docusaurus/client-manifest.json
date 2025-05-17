@@ -129,8 +129,8 @@
       2076,
       308
     ],
-    "4f29292d": [
-      9183
+    "4fa611ed": [
+      913
     ],
     "595be38c": [
       1869,
@@ -355,36 +355,36 @@
     "170": {
       "js": [
         {
-          "file": "assets/js/a99f1342.a9527a1f.js",
-          "hash": "23a83de1a7ec7b6d",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/a99f1342.a9527a1f.js"
+          "file": "assets/js/a99f1342.99c4b5a1.js",
+          "hash": "5de1ae66df290d13",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/a99f1342.99c4b5a1.js"
         }
       ]
     },
     "205": {
       "js": [
         {
-          "file": "assets/js/0d708d8c.206c7586.js",
-          "hash": "22780df5cf759150",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/0d708d8c.206c7586.js"
+          "file": "assets/js/0d708d8c.fe57215e.js",
+          "hash": "d49087f83b4233f9",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/0d708d8c.fe57215e.js"
         }
       ]
     },
     "308": {
       "js": [
         {
-          "file": "assets/js/4edc808e.d6c44044.js",
-          "hash": "dd5ba985d2c6f738",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/4edc808e.d6c44044.js"
+          "file": "assets/js/4edc808e.6b65d22d.js",
+          "hash": "ab5cc5203a64e3e4",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/4edc808e.6b65d22d.js"
         }
       ]
     },
     "395": {
       "js": [
         {
-          "file": "assets/js/e9093877.b408ce68.js",
-          "hash": "46183b5f26bc63e3",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/e9093877.b408ce68.js"
+          "file": "assets/js/e9093877.342b1ad7.js",
+          "hash": "e4279a35ff1e6ddf",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/e9093877.342b1ad7.js"
         }
       ]
     },
@@ -393,34 +393,43 @@
         {
           "file": "assets/js/489.18b6be8b.js",
           "hash": "dcfc897f79af3e40",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/489.18b6be8b.js"
+          "publicPath": "/isaadiploma/zh-cn/assets/js/489.18b6be8b.js"
         }
       ]
     },
     "870": {
       "js": [
         {
-          "file": "assets/js/32d7b3d8.959aa42d.js",
-          "hash": "1d59a6c0ca2faedc",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/32d7b3d8.959aa42d.js"
+          "file": "assets/js/32d7b3d8.5c4388f4.js",
+          "hash": "bf2244d00ea7d1f9",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/32d7b3d8.5c4388f4.js"
         }
       ]
     },
     "885": {
       "js": [
         {
-          "file": "assets/js/c9b1d311.252f6511.js",
-          "hash": "2873ced57078f9fb",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/c9b1d311.252f6511.js"
+          "file": "assets/js/c9b1d311.47233af7.js",
+          "hash": "8d70c197f46ca5ab",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/c9b1d311.47233af7.js"
+        }
+      ]
+    },
+    "913": {
+      "js": [
+        {
+          "file": "assets/js/4fa611ed.150e3db4.js",
+          "hash": "ef879c9447770fb5",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/4fa611ed.150e3db4.js"
         }
       ]
     },
     "1195": {
       "js": [
         {
-          "file": "assets/js/88537089.1c6a741a.js",
-          "hash": "abde0cfcae646092",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/88537089.1c6a741a.js"
+          "file": "assets/js/88537089.45d1043d.js",
+          "hash": "15ce2d561c536ad9",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/88537089.45d1043d.js"
         }
       ]
     },
@@ -429,34 +438,34 @@
         {
           "file": "assets/js/1382.644ac3c5.js",
           "hash": "0551dc19235b0502",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/1382.644ac3c5.js"
+          "publicPath": "/isaadiploma/zh-cn/assets/js/1382.644ac3c5.js"
         }
       ]
     },
     "1484": {
       "js": [
         {
-          "file": "assets/js/32a5c708.a75700a3.js",
-          "hash": "2820e6ae325675d5",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/32a5c708.a75700a3.js"
+          "file": "assets/js/32a5c708.ac87fe54.js",
+          "hash": "aa252f94fb133987",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/32a5c708.ac87fe54.js"
         }
       ]
     },
     "1507": {
       "js": [
         {
-          "file": "assets/js/0a2598e2.aa5a3b72.js",
-          "hash": "b1ee3426faf43e73",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/0a2598e2.aa5a3b72.js"
+          "file": "assets/js/0a2598e2.22c763c6.js",
+          "hash": "5502c9c519031ccb",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/0a2598e2.22c763c6.js"
         }
       ]
     },
     "1710": {
       "js": [
         {
-          "file": "assets/js/6bbbb72f.43c80eec.js",
-          "hash": "7494c1fa236bb13e",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/6bbbb72f.43c80eec.js"
+          "file": "assets/js/6bbbb72f.6ff1ff57.js",
+          "hash": "3c46a4cea5a4ed7f",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/6bbbb72f.6ff1ff57.js"
         }
       ]
     },
@@ -465,7 +474,7 @@
         {
           "file": "assets/css/styles.12a252dd.css",
           "hash": "d5ffe5ee2f617e7a",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/css/styles.12a252dd.css"
+          "publicPath": "/isaadiploma/zh-cn/assets/css/styles.12a252dd.css"
         }
       ]
     },
@@ -474,115 +483,115 @@
         {
           "file": "assets/js/common.b83041a7.js",
           "hash": "819557f24b5c37c5",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/common.b83041a7.js"
+          "publicPath": "/isaadiploma/zh-cn/assets/js/common.b83041a7.js"
         }
       ]
     },
     "2138": {
       "js": [
         {
-          "file": "assets/js/1a4e3797.9aa73630.js",
-          "hash": "7d334983a1b891ba",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/1a4e3797.9aa73630.js"
+          "file": "assets/js/1a4e3797.e97560a7.js",
+          "hash": "465f64e1a1fb52d1",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/1a4e3797.e97560a7.js"
         }
       ]
     },
     "2237": {
       "js": [
         {
-          "file": "assets/js/2237.83ac14e0.js",
-          "hash": "3a02747227f60aa7",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/2237.83ac14e0.js"
+          "file": "assets/js/2237.18ef5383.js",
+          "hash": "73e64ed9ec047499",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/2237.18ef5383.js"
         }
       ]
     },
     "2418": {
       "js": [
         {
-          "file": "assets/js/b75ad1be.42880165.js",
-          "hash": "3b1ab819fbc82b59",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/b75ad1be.42880165.js"
+          "file": "assets/js/b75ad1be.5afebc5d.js",
+          "hash": "aecd866a42162368",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/b75ad1be.5afebc5d.js"
         }
       ]
     },
     "2459": {
       "js": [
         {
-          "file": "assets/js/afe75284.dd140df2.js",
-          "hash": "678994fb5f207de0",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/afe75284.dd140df2.js"
+          "file": "assets/js/afe75284.8c9e1122.js",
+          "hash": "2d679b0fb09d97d5",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/afe75284.8c9e1122.js"
         }
       ]
     },
     "2641": {
       "js": [
         {
-          "file": "assets/js/d2d9ab35.b111617a.js",
-          "hash": "eea82588da8d9ddf",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/d2d9ab35.b111617a.js"
+          "file": "assets/js/d2d9ab35.54ff41d2.js",
+          "hash": "bc58eaf0802a267e",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/d2d9ab35.54ff41d2.js"
         }
       ]
     },
     "3265": {
       "js": [
         {
-          "file": "assets/js/a2237366.589867c9.js",
-          "hash": "104a6523a08aa3fb",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/a2237366.589867c9.js"
+          "file": "assets/js/a2237366.4ceb936f.js",
+          "hash": "53fe7e4ee2fb1e60",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/a2237366.4ceb936f.js"
         }
       ]
     },
     "3355": {
       "js": [
         {
-          "file": "assets/js/2e554d34.f819981e.js",
-          "hash": "02f8c93facd44764",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/2e554d34.f819981e.js"
+          "file": "assets/js/2e554d34.0c689c98.js",
+          "hash": "7d50dd1cdc148484",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/2e554d34.0c689c98.js"
         }
       ]
     },
     "3623": {
       "js": [
         {
-          "file": "assets/js/d8378c49.3341c45c.js",
-          "hash": "22f6280a42593658",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/d8378c49.3341c45c.js"
+          "file": "assets/js/d8378c49.a250d2e7.js",
+          "hash": "6e1be9a5cb4c6b80",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/d8378c49.a250d2e7.js"
         }
       ]
     },
     "3633": {
       "js": [
         {
-          "file": "assets/js/76317b24.56ac24d3.js",
-          "hash": "953b82cb23f00459",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/76317b24.56ac24d3.js"
+          "file": "assets/js/76317b24.de5627c6.js",
+          "hash": "7a3e007ebb63b6b0",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/76317b24.de5627c6.js"
         }
       ]
     },
     "4087": {
       "js": [
         {
-          "file": "assets/js/be862b05.456e9bce.js",
-          "hash": "6845984c7998c0e4",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/be862b05.456e9bce.js"
+          "file": "assets/js/be862b05.8c2e7a5d.js",
+          "hash": "fb3486bea702287d",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/be862b05.8c2e7a5d.js"
         }
       ]
     },
     "4554": {
       "js": [
         {
-          "file": "assets/js/2c2fa793.5a012542.js",
-          "hash": "f418f697fd0b8bc9",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/2c2fa793.5a012542.js"
+          "file": "assets/js/2c2fa793.1f5a8e99.js",
+          "hash": "98a3499507ee25c7",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/2c2fa793.1f5a8e99.js"
         }
       ]
     },
     "4682": {
       "js": [
         {
-          "file": "assets/js/dc50075e.e440a5d3.js",
-          "hash": "6220d52643832f3b",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/dc50075e.e440a5d3.js"
+          "file": "assets/js/dc50075e.70817d39.js",
+          "hash": "67c3f173c09507c8",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/dc50075e.70817d39.js"
         }
       ]
     },
@@ -591,79 +600,79 @@
         {
           "file": "assets/js/138e0e15.45234bbf.js",
           "hash": "f3ff76a446b560df",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/138e0e15.45234bbf.js"
+          "publicPath": "/isaadiploma/zh-cn/assets/js/138e0e15.45234bbf.js"
         }
       ]
     },
     "4938": {
       "js": [
         {
-          "file": "assets/js/722026c5.d8b151ed.js",
-          "hash": "4b5deaaf483ab817",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/722026c5.d8b151ed.js"
+          "file": "assets/js/722026c5.ea2b1afa.js",
+          "hash": "5205b719ff84ed8b",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/722026c5.ea2b1afa.js"
         }
       ]
     },
     "4966": {
       "js": [
         {
-          "file": "assets/js/b41f2acd.f670854b.js",
-          "hash": "bd62bd1f86a12362",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/b41f2acd.f670854b.js"
+          "file": "assets/js/b41f2acd.9c0fe86d.js",
+          "hash": "7578485a6cff44e4",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/b41f2acd.9c0fe86d.js"
         }
       ]
     },
     "4995": {
       "js": [
         {
-          "file": "assets/js/acc29c8c.b567d611.js",
-          "hash": "e4f40df8a279405f",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/acc29c8c.b567d611.js"
+          "file": "assets/js/acc29c8c.1c73658d.js",
+          "hash": "62648418ba619939",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/acc29c8c.1c73658d.js"
         }
       ]
     },
     "5098": {
       "js": [
         {
-          "file": "assets/js/29cbd566.09300ea4.js",
-          "hash": "f3a663a0055d3430",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/29cbd566.09300ea4.js"
+          "file": "assets/js/29cbd566.10220cdd.js",
+          "hash": "d8acca95f47127f9",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/29cbd566.10220cdd.js"
         }
       ]
     },
     "5122": {
       "js": [
         {
-          "file": "assets/js/118d029b.0f093eba.js",
-          "hash": "7330579d71fe1a8d",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/118d029b.0f093eba.js"
+          "file": "assets/js/118d029b.58be506f.js",
+          "hash": "8c3994a505139a91",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/118d029b.58be506f.js"
         }
       ]
     },
     "5327": {
       "js": [
         {
-          "file": "assets/js/e2feaeac.98e77702.js",
-          "hash": "f190487cf95359e9",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/e2feaeac.98e77702.js"
+          "file": "assets/js/e2feaeac.54ab8ba1.js",
+          "hash": "2e8379bcc904b49e",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/e2feaeac.54ab8ba1.js"
         }
       ]
     },
     "5354": {
       "js": [
         {
-          "file": "assets/js/runtime~main.182185ad.js",
-          "hash": "e1e9eb0face3098d",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/runtime~main.182185ad.js"
+          "file": "assets/js/runtime~main.c30e5af9.js",
+          "hash": "44dd5a667683c4bb",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/runtime~main.c30e5af9.js"
         }
       ]
     },
     "5723": {
       "js": [
         {
-          "file": "assets/js/3cd505c7.98bb8342.js",
-          "hash": "aa1f2dceec141c31",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/3cd505c7.98bb8342.js"
+          "file": "assets/js/3cd505c7.52bed482.js",
+          "hash": "68d2dbd636098e33",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/3cd505c7.52bed482.js"
         }
       ]
     },
@@ -672,7 +681,7 @@
         {
           "file": "assets/js/5741.d2e8c918.js",
           "hash": "0a0c1e28385c9815",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/5741.d2e8c918.js"
+          "publicPath": "/isaadiploma/zh-cn/assets/js/5741.d2e8c918.js"
         }
       ]
     },
@@ -681,43 +690,43 @@
         {
           "file": "assets/js/aba21aa0.ee93dc90.js",
           "hash": "ee681f06333b5873",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/aba21aa0.ee93dc90.js"
+          "publicPath": "/isaadiploma/zh-cn/assets/js/aba21aa0.ee93dc90.js"
         }
       ]
     },
     "5909": {
       "js": [
         {
-          "file": "assets/js/0e24665f.bd1e11d9.js",
-          "hash": "1926df6fbc93f55c",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/0e24665f.bd1e11d9.js"
+          "file": "assets/js/0e24665f.3693ed6b.js",
+          "hash": "2c431c8170a0eab1",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/0e24665f.3693ed6b.js"
         }
       ]
     },
     "6566": {
       "js": [
         {
-          "file": "assets/js/ed5d134e.3c231447.js",
-          "hash": "de6f6672508123f4",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/ed5d134e.3c231447.js"
+          "file": "assets/js/ed5d134e.143333a1.js",
+          "hash": "a44aa4af275953ac",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/ed5d134e.143333a1.js"
         }
       ]
     },
     "6740": {
       "js": [
         {
-          "file": "assets/js/07417d44.ac06552f.js",
-          "hash": "033cea92776131c7",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/07417d44.ac06552f.js"
+          "file": "assets/js/07417d44.b7ee1dd4.js",
+          "hash": "4247046c267e1daa",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/07417d44.b7ee1dd4.js"
         }
       ]
     },
     "7013": {
       "js": [
         {
-          "file": "assets/js/226722a0.7feaf05d.js",
-          "hash": "162ce26c1b8e95b9",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/226722a0.7feaf05d.js"
+          "file": "assets/js/226722a0.7873be2d.js",
+          "hash": "2e207b5e0d802fb0",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/226722a0.7873be2d.js"
         }
       ]
     },
@@ -726,61 +735,61 @@
         {
           "file": "assets/js/a7bd4aaa.239e2f27.js",
           "hash": "e473f9fa68ac50f7",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/a7bd4aaa.239e2f27.js"
+          "publicPath": "/isaadiploma/zh-cn/assets/js/a7bd4aaa.239e2f27.js"
         }
       ]
     },
     "7221": {
       "js": [
         {
-          "file": "assets/js/fdf0742e.df20b2d0.js",
-          "hash": "29a2fc006ecedc0d",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/fdf0742e.df20b2d0.js"
+          "file": "assets/js/fdf0742e.cdb37400.js",
+          "hash": "4c746e40a4350934",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/fdf0742e.cdb37400.js"
         }
       ]
     },
     "7245": {
       "js": [
         {
-          "file": "assets/js/cc03323a.9cdc8bb5.js",
-          "hash": "0efb14f0c6a51ce0",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/cc03323a.9cdc8bb5.js"
+          "file": "assets/js/cc03323a.62fd3f45.js",
+          "hash": "647b765685b12dc5",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/cc03323a.62fd3f45.js"
         }
       ]
     },
     "7318": {
       "js": [
         {
-          "file": "assets/js/6fff25e9.b2e38731.js",
-          "hash": "a0a0f2e9cac7c878",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/6fff25e9.b2e38731.js"
+          "file": "assets/js/6fff25e9.d83fa20d.js",
+          "hash": "17de939c9435e153",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/6fff25e9.d83fa20d.js"
         }
       ]
     },
     "7418": {
       "js": [
         {
-          "file": "assets/js/95ce6d41.205bd04d.js",
-          "hash": "62fb127398292294",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/95ce6d41.205bd04d.js"
+          "file": "assets/js/95ce6d41.a45cb915.js",
+          "hash": "ee1c3cb7e18040e2",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/95ce6d41.a45cb915.js"
         }
       ]
     },
     "7671": {
       "js": [
         {
-          "file": "assets/js/595be38c.4c74ea97.js",
-          "hash": "367666151848fcb5",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/595be38c.4c74ea97.js"
+          "file": "assets/js/595be38c.9df16b84.js",
+          "hash": "26fcba3ec0737538",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/595be38c.9df16b84.js"
         }
       ]
     },
     "8082": {
       "js": [
         {
-          "file": "assets/js/3711dc20.30874652.js",
-          "hash": "63317da692b1cffa",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/3711dc20.30874652.js"
+          "file": "assets/js/3711dc20.4f934301.js",
+          "hash": "e0d1204988c031c5",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/3711dc20.4f934301.js"
         }
       ]
     },
@@ -789,25 +798,25 @@
         {
           "file": "assets/js/17896441.b52e15c5.js",
           "hash": "9818307f423c1c55",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/17896441.b52e15c5.js"
+          "publicPath": "/isaadiploma/zh-cn/assets/js/17896441.b52e15c5.js"
         }
       ]
     },
     "8735": {
       "js": [
         {
-          "file": "assets/js/28df18b5.d8003de6.js",
-          "hash": "490e9068d5cdcd88",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/28df18b5.d8003de6.js"
+          "file": "assets/js/28df18b5.c5573ad8.js",
+          "hash": "7e02b9b6a4e6422a",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/28df18b5.c5573ad8.js"
         }
       ]
     },
     "8792": {
       "js": [
         {
-          "file": "assets/js/main.82f03f9a.js",
-          "hash": "8fd87bd508dacbc1",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/main.82f03f9a.js"
+          "file": "assets/js/main.e8018c52.js",
+          "hash": "93c3424b2edf1eb9",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/main.e8018c52.js"
         }
       ]
     },
@@ -816,52 +825,43 @@
         {
           "file": "assets/js/a94703ab.5d20dfe4.js",
           "hash": "c58a794ac8f0549a",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/a94703ab.5d20dfe4.js"
+          "publicPath": "/isaadiploma/zh-cn/assets/js/a94703ab.5d20dfe4.js"
         }
       ]
     },
     "9177": {
       "js": [
         {
-          "file": "assets/js/48d62415.9638bab9.js",
-          "hash": "0c984c5b23409959",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/48d62415.9638bab9.js"
-        }
-      ]
-    },
-    "9183": {
-      "js": [
-        {
-          "file": "assets/js/4f29292d.7293b2db.js",
-          "hash": "857b8e2a7d7bc8fa",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/4f29292d.7293b2db.js"
+          "file": "assets/js/48d62415.b1757f91.js",
+          "hash": "fb193d4072985d67",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/48d62415.b1757f91.js"
         }
       ]
     },
     "9647": {
       "js": [
         {
-          "file": "assets/js/5e95c892.09b4a9e9.js",
-          "hash": "4700230778cc3a1f",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/5e95c892.09b4a9e9.js"
+          "file": "assets/js/5e95c892.b7a3c939.js",
+          "hash": "f00a5cd31a4a578e",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/5e95c892.b7a3c939.js"
         }
       ]
     },
     "9864": {
       "js": [
         {
-          "file": "assets/js/afeeb15d.d98182e5.js",
-          "hash": "a8873f99056554cd",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/afeeb15d.d98182e5.js"
+          "file": "assets/js/afeeb15d.2fc3da64.js",
+          "hash": "696855d88839e858",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/afeeb15d.2fc3da64.js"
         }
       ]
     },
     "9970": {
       "js": [
         {
-          "file": "assets/js/314aef45.1c22f671.js",
-          "hash": "8ee55fafcb977de9",
-          "publicPath": "/python-guide-for-javascript-engineers/zh-cn/assets/js/314aef45.1c22f671.js"
+          "file": "assets/js/314aef45.86c15c7e.js",
+          "hash": "941bdf8fcff34533",
+          "publicPath": "/isaadiploma/zh-cn/assets/js/314aef45.86c15c7e.js"
         }
       ]
     }

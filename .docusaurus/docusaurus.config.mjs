@@ -6,13 +6,14 @@
 export default {
   "title": "JavaScript инженерлеріне арналған Python нұсқаулығы",
   "tagline": "Python, JavaScript, programming, experience, tutorials, open source, free, eBooks, downloads, PDF, examples",
-  "url": "https://luckrnx09.com",
-  "baseUrl": "/python-guide-for-javascript-engineers/",
+  "organizationName": "coccinelleee",
+  "projectName": "isaadiploma",
+  "url": "https://coccinelleee.github.io",
+  "baseUrl": "/isaadiploma/zh-cn/",
   "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "throw",
   "favicon": "img/favicon.ico",
-  "projectName": "python-guide-for-javascript-engineers",
   "presets": [
     [
       "classic",
@@ -36,12 +37,6 @@ export default {
     ]
   ],
   "themeConfig": {
-    zoom: {
-      selector: '.markdown img',
-      background: {
-        light: 'rgba(255, 255, 255, 0.75)',
-        dark: 'rgba(0, 0, 0, 0.75)',
-    },
     "docs": {
       "sidebar": {
         "hideable": true,
@@ -226,7 +221,7 @@ export default {
     }
   },
   "plugins": [
-    '@docusaurus/plugin-image-zoom',
+    null,
     [
       "C:\\Users\\DIKO\\Desktop\\diploma\\DIPLOMA ISLAM\\python-guide-for-javascript-engineers-main\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
       {

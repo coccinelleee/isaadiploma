@@ -5,7 +5,7 @@
   "source": "@site/docs/index.mdx",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/python-guide-for-javascript-engineers/zh-cn/",
+  "permalink": "/isaadiploma/zh-cn/",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -19,6 +19,6 @@
   "sidebar": "docs",
   "next": {
     "title": "Кітап туралы",
-    "permalink": "/python-guide-for-javascript-engineers/zh-cn/about-the-book"
+    "permalink": "/isaadiploma/zh-cn/about-the-book"
   }
 }

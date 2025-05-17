@@ -5,7 +5,7 @@
   "source": "@site/docs/task-list-files.mdx",
   "sourceDirName": ".",
   "slug": "/task-list-files",
-  "permalink": "/python-guide-for-javascript-engineers/zh-cn/task-list-files",
+  "permalink": "/isaadiploma/zh-cn/task-list-files",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -19,10 +19,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Тип аннотациялары",
-    "permalink": "/python-guide-for-javascript-engineers/zh-cn/typing-annotation"
+    "permalink": "/isaadiploma/zh-cn/typing-annotation"
   },
   "next": {
     "title": "GitHub ТОП 50",
-    "permalink": "/python-guide-for-javascript-engineers/zh-cn/task-top-50-in-github"
+    "permalink": "/isaadiploma/zh-cn/task-top-50-in-github"
   }
 }

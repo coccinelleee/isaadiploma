@@ -10,20 +10,25 @@ export default function ZoomControls() {
   };
 
   useEffect(() => {
-    document.body.style.zoom = zoom;
+    const root = document.getElementById('zoom-root');
+    if (root) {
+      root.style.transform = `scale(${zoom})`;
+      root.style.transformOrigin = 'top left';
+    }
   }, [zoom]);
+  
 
   return (
     <div style={{
-      position: 'fixed',
-      top: 12,
-      right: 160,
-      zIndex: 9999,
-      backgroundColor: 'white',
-      border: '1px solid #ccc',
-      borderRadius: '6px',
-      padding: '5px',
-      boxShadow: '0 2px 8px rgba(0,0,0,0.15)',
+    position: 'fixed',
+    top: '12px',
+    left: '12px', // было right: 160
+    zIndex: 1000,
+    backgroundColor: 'white',
+    border: '1px solid #ccc',
+    borderRadius: '6px',
+    padding: '5px',
+    boxShadow: '0 2px 8px rgba(0,0,0,0.15)',
     }}>
       <button onClick={() => handleZoom(-0.1)}>−</button>
       <button onClick={() => handleZoom(0.1)}>+</button>

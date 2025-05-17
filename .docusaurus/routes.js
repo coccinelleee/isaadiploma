@@ -3,265 +3,265 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/python-guide-for-javascript-engineers/zh-cn/search',
-    component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/search', 'e1b'),
+    path: '/isaadiploma/zh-cn/search',
+    component: ComponentCreator('/isaadiploma/zh-cn/search', '41e'),
     exact: true
   },
   {
-    path: '/python-guide-for-javascript-engineers/zh-cn/',
-    component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/', '961'),
+    path: '/isaadiploma/zh-cn/',
+    component: ComponentCreator('/isaadiploma/zh-cn/', 'cde'),
     routes: [
       {
-        path: '/python-guide-for-javascript-engineers/zh-cn/',
-        component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/', '1b1'),
+        path: '/isaadiploma/zh-cn/',
+        component: ComponentCreator('/isaadiploma/zh-cn/', '8b2'),
         routes: [
           {
-            path: '/python-guide-for-javascript-engineers/zh-cn/',
-            component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/', '008'),
+            path: '/isaadiploma/zh-cn/',
+            component: ComponentCreator('/isaadiploma/zh-cn/', '25b'),
             routes: [
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/about-the-book',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/about-the-book', 'b89'),
+                path: '/isaadiploma/zh-cn/about-the-book',
+                component: ComponentCreator('/isaadiploma/zh-cn/about-the-book', 'd44'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/afterword',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/afterword', '14f'),
+                path: '/isaadiploma/zh-cn/afterword',
+                component: ComponentCreator('/isaadiploma/zh-cn/afterword', '1fd'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/anonymous-functions',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/anonymous-functions', '319'),
+                path: '/isaadiploma/zh-cn/anonymous-functions',
+                component: ComponentCreator('/isaadiploma/zh-cn/anonymous-functions', 'a3d'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/arithmetic-operation',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/arithmetic-operation', 'ae5'),
+                path: '/isaadiploma/zh-cn/arithmetic-operation',
+                component: ComponentCreator('/isaadiploma/zh-cn/arithmetic-operation', '142'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/basic-types',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/basic-types', 'c29'),
+                path: '/isaadiploma/zh-cn/basic-types',
+                component: ComponentCreator('/isaadiploma/zh-cn/basic-types', 'dc9'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/class-and-instance',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/class-and-instance', 'b4d'),
+                path: '/isaadiploma/zh-cn/class-and-instance',
+                component: ComponentCreator('/isaadiploma/zh-cn/class-and-instance', '061'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/comprehension-expressions',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/comprehension-expressions', '663'),
+                path: '/isaadiploma/zh-cn/comprehension-expressions',
+                component: ComponentCreator('/isaadiploma/zh-cn/comprehension-expressions', '9c8'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/create-and-import-of-modules',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/create-and-import-of-modules', '676'),
+                path: '/isaadiploma/zh-cn/create-and-import-of-modules',
+                component: ComponentCreator('/isaadiploma/zh-cn/create-and-import-of-modules', '040'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/create-and-import-packages',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/create-and-import-packages', 'df1'),
+                path: '/isaadiploma/zh-cn/create-and-import-packages',
+                component: ComponentCreator('/isaadiploma/zh-cn/create-and-import-packages', 'd3a'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/custom-exception-classes',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/custom-exception-classes', '0f0'),
+                path: '/isaadiploma/zh-cn/custom-exception-classes',
+                component: ComponentCreator('/isaadiploma/zh-cn/custom-exception-classes', '58a'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/datetime-module',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/datetime-module', '9ee'),
+                path: '/isaadiploma/zh-cn/datetime-module',
+                component: ComponentCreator('/isaadiploma/zh-cn/datetime-module', '630'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/definition-and-assignment-of-variables',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/definition-and-assignment-of-variables', 'e50'),
+                path: '/isaadiploma/zh-cn/definition-and-assignment-of-variables',
+                component: ComponentCreator('/isaadiploma/zh-cn/definition-and-assignment-of-variables', 'e19'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/definition-and-invocation-of-functions',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/definition-and-invocation-of-functions', '70e'),
+                path: '/isaadiploma/zh-cn/definition-and-invocation-of-functions',
+                component: ComponentCreator('/isaadiploma/zh-cn/definition-and-invocation-of-functions', 'ccc'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/dictionary',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/dictionary', 'd04'),
+                path: '/isaadiploma/zh-cn/dictionary',
+                component: ComponentCreator('/isaadiploma/zh-cn/dictionary', '9b0'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/for-and-while-statement',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/for-and-while-statement', 'efd'),
+                path: '/isaadiploma/zh-cn/for-and-while-statement',
+                component: ComponentCreator('/isaadiploma/zh-cn/for-and-while-statement', '0be'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/hello-world',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/hello-world', '57f'),
+                path: '/isaadiploma/zh-cn/hello-world',
+                component: ComponentCreator('/isaadiploma/zh-cn/hello-world', '7e5'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/how-to-use-the-book',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/how-to-use-the-book', 'dc4'),
+                path: '/isaadiploma/zh-cn/how-to-use-the-book',
+                component: ComponentCreator('/isaadiploma/zh-cn/how-to-use-the-book', '2cd'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/if-statement',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/if-statement', 'a4e'),
+                path: '/isaadiploma/zh-cn/if-statement',
+                component: ComponentCreator('/isaadiploma/zh-cn/if-statement', 'c7d'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/json-module',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/json-module', '6ab'),
+                path: '/isaadiploma/zh-cn/json-module',
+                component: ComponentCreator('/isaadiploma/zh-cn/json-module', 'f12'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/lifelong-learning',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/lifelong-learning', '690'),
+                path: '/isaadiploma/zh-cn/lifelong-learning',
+                component: ComponentCreator('/isaadiploma/zh-cn/lifelong-learning', 'ad2'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/lists-and-tuples',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/lists-and-tuples', 'a1b'),
+                path: '/isaadiploma/zh-cn/lists-and-tuples',
+                component: ComponentCreator('/isaadiploma/zh-cn/lists-and-tuples', '85e'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/math-module',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/math-module', '857'),
+                path: '/isaadiploma/zh-cn/math-module',
+                component: ComponentCreator('/isaadiploma/zh-cn/math-module', 'e31'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/naming-rules-for-variables',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/naming-rules-for-variables', '303'),
+                path: '/isaadiploma/zh-cn/naming-rules-for-variables',
+                component: ComponentCreator('/isaadiploma/zh-cn/naming-rules-for-variables', 'b90'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/os-module',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/os-module', '8e9'),
+                path: '/isaadiploma/zh-cn/os-module',
+                component: ComponentCreator('/isaadiploma/zh-cn/os-module', '089'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/pip',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/pip', '4a2'),
+                path: '/isaadiploma/zh-cn/pip',
+                component: ComponentCreator('/isaadiploma/zh-cn/pip', 'd34'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/poetry',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/poetry', 'cd9'),
+                path: '/isaadiploma/zh-cn/poetry',
+                component: ComponentCreator('/isaadiploma/zh-cn/poetry', '784'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/random-module',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/random-module', 'd78'),
+                path: '/isaadiploma/zh-cn/random-module',
+                component: ComponentCreator('/isaadiploma/zh-cn/random-module', '51c'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/re-module',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/re-module', '97f'),
+                path: '/isaadiploma/zh-cn/re-module',
+                component: ComponentCreator('/isaadiploma/zh-cn/re-module', '94e'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/read-and-write-files',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/read-and-write-files', '2f5'),
+                path: '/isaadiploma/zh-cn/read-and-write-files',
+                component: ComponentCreator('/isaadiploma/zh-cn/read-and-write-files', '218'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/references',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/references', '6ef'),
+                path: '/isaadiploma/zh-cn/references',
+                component: ComponentCreator('/isaadiploma/zh-cn/references', 'a60'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/set',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/set', 'e04'),
+                path: '/isaadiploma/zh-cn/set',
+                component: ComponentCreator('/isaadiploma/zh-cn/set', '182'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/setup-environment',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/setup-environment', '09d'),
+                path: '/isaadiploma/zh-cn/setup-environment',
+                component: ComponentCreator('/isaadiploma/zh-cn/setup-environment', '963'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/task-book-store',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/task-book-store', 'a53'),
+                path: '/isaadiploma/zh-cn/task-book-store',
+                component: ComponentCreator('/isaadiploma/zh-cn/task-book-store', '82d'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/task-list-files',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/task-list-files', 'c8c'),
+                path: '/isaadiploma/zh-cn/task-list-files',
+                component: ComponentCreator('/isaadiploma/zh-cn/task-list-files', '241'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/task-top-50-in-github',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/task-top-50-in-github', '62c'),
+                path: '/isaadiploma/zh-cn/task-top-50-in-github',
+                component: ComponentCreator('/isaadiploma/zh-cn/task-top-50-in-github', 'b75'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/third-party-packages',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/third-party-packages', 'b40'),
+                path: '/isaadiploma/zh-cn/third-party-packages',
+                component: ComponentCreator('/isaadiploma/zh-cn/third-party-packages', '4ca'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/try-except-statements',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/try-except-statements', 'b9d'),
+                path: '/isaadiploma/zh-cn/try-except-statements',
+                component: ComponentCreator('/isaadiploma/zh-cn/try-except-statements', 'a44'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/type-conversion',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/type-conversion', '4e8'),
+                path: '/isaadiploma/zh-cn/type-conversion',
+                component: ComponentCreator('/isaadiploma/zh-cn/type-conversion', 'cb0'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/typing-annotation',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/typing-annotation', '000'),
+                path: '/isaadiploma/zh-cn/typing-annotation',
+                component: ComponentCreator('/isaadiploma/zh-cn/typing-annotation', 'e7b'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/venv-and-conda-and-condaip',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/venv-and-conda-and-condaip', 'e81'),
+                path: '/isaadiploma/zh-cn/venv-and-conda-and-condaip',
+                component: ComponentCreator('/isaadiploma/zh-cn/venv-and-conda-and-condaip', '509'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/python-guide-for-javascript-engineers/zh-cn/',
-                component: ComponentCreator('/python-guide-for-javascript-engineers/zh-cn/', '713'),
+                path: '/isaadiploma/zh-cn/',
+                component: ComponentCreator('/isaadiploma/zh-cn/', '3da'),
                 exact: true,
                 sidebar: "docs"
               }

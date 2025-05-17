@@ -3,10 +3,13 @@ import Layout from '@theme-original/Layout';
 import ZoomControls from '../../components/ZoomControls';
 
 export default function LayoutWrapper(props) {
-  return (
-    <>
-      <Layout {...props} />
-      <ZoomControls />
-    </>
-  );
-}
+    return (
+      <>
+        <div id="zoom-root">
+          <Layout {...props} />
+        </div>
+        <ZoomControls />
+      </>
+    );
+  }
+  
